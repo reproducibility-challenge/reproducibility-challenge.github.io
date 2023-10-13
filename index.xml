@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Project</title><link>https://example.com/</link><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><description>My Project</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>My Project</title><link>https://example.com/</link></image><item><title>ML Reproducibility Challenge</title><link>https://example.com/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/home/</guid><description>&lt;p>Editing this page: Welcome to the &lt;em>Project Docs&lt;/em> template!
-Edit 2!
-Edit 3!
-Edit 4!
-Edit 5!
-Edit 6!&lt;/p>
-&lt;ul class="cta-group">
-&lt;li>
-&lt;a href="chapter1" class="btn btn-primary px-3 py-3">👉 Get Started with Chapter 1&lt;/a>
-&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Project</title><link>https://example.com/</link><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><description>My Project</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>My Project</title><link>https://example.com/</link></image></channel></rss>
