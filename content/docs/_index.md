@@ -9,5 +9,6 @@ Edit 2!
 Edit 3!
 Edit 4!
 Edit 5!
+Edit 6!
 
 {{< cta cta_text="👉 Get Started with Chapter 1" cta_link="chapter1" >}}
