@@ -2,6 +2,7 @@
 title: ML Reproducibility Challenge
 type: book # Do not modify.
 toc: false
+headless: true
 ---
 
 Editing this page: Welcome to the _Project Docs_ template!
