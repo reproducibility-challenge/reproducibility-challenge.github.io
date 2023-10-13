@@ -4,9 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'My Project' # Website name
-baseURL: 'https://example.com/docs/' # Website URL
-RelativeURLs: true
-CanonifyURLs: true
+baseURL: 'https://example.com/' # Website URL
 
 ############################
 ## PAGE OPTIONS
