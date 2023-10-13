@@ -5,7 +5,8 @@
 
 title: 'My Project' # Website name
 baseURL: 'https://example.com/docs/' # Website URL
-
+RelativeURLs: true
+CanonifyURLs: true
 
 ############################
 ## PAGE OPTIONS
