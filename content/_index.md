@@ -5,17 +5,6 @@ toc: false
 headless: true
 ---
 
-Editing this page: Welcome to the _Project Docs_ template!
-Edit 2!
-Edit 3!
-Edit 4!
-Edit 5!
-Edit 6!
-
-{{< cta cta_text="👉 Get Started with Chapter 1" cta_link="chapter1" >}}
-
-# ML Reproducibility Challenge 2023
-
 Welcome to the ML Reproducibility Challenge 2023. This is the seventh edition of the event ([v1](https://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html), [v2](https://www.cs.mcgill.ca/~jpineau/ICLR2019-ReproducibilityChallenge.html), [v3](https://reproducibility-challenge.github.io/neurips2019/), [v4](https://paperswithcode.com/rc2020), [v5](https://paperswithcode.com/rc2021), [v6](https://paperswithcode.com/rc2022))
 
 The primary goal of this event is to encourage the publishing and sharing of scientific results that are reliable and reproducible. In support of this, the objective of this challenge is to investigate reproducibility of papers accepted for publication at top conferences by inviting members of the community at large to select a paper, and verify the empirical results and claims in the paper by reproducing the computational experiments, either via a new implementation or using code/data or other information provided by the authors.
