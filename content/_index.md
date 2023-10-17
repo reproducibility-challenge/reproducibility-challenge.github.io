@@ -39,3 +39,14 @@ Come join
 ## How to participate
 - This
 - That
+
+## Contact Information
+For general queries regarding the challenge, mail us at reproducibility.challenge@gmail.com.
+
+## Organizing Committee
+- Name (Org)
+- Name (Org)
+- Name (Org)
+
+## Acknowledgements
+- Name (Org)
