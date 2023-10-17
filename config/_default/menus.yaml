@@ -7,6 +7,18 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: FAQ
-    url: /_faq.md
+  - name: Registration
+    url: registration/
     weight: 20
+  - name: Task
+    url: task/
+    weight: 30
+  - name: Awards
+    url: awards/
+    weight: 40
+  - name: Resources
+    url: resources/
+    weight: 50
+  - name: FAQ
+    url: faq/
+    weight: 60
