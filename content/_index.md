@@ -13,3 +13,26 @@ Edit 5!
 Edit 6!
 
 {{< cta cta_text="👉 Get Started with Chapter 1" cta_link="chapter1" >}}
+
+# ML Reproducibility Challenge 2023
+
+Welcome to the ML Reproducibility Challenge 2023. This is the seventh edition of the event ([v1](https://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html), [v2](https://www.cs.mcgill.ca/~jpineau/ICLR2019-ReproducibilityChallenge.html), [v3](https://reproducibility-challenge.github.io/neurips2019/), [v4](https://paperswithcode.com/rc2020), [v5](https://paperswithcode.com/rc2021), [v6](https://paperswithcode.com/rc2022))
+
+
+# News
+
+- [MM/DD/YYYY] A thing happened
+- [MM/DD/YYYY] Another thing happened
+
+# Key Dates
+
+- Announcement of the challenge: MM/DD/YYYY
+- Submission deadline: MM/DD/YYYY (11:59PM AOE), platform: TBA
+
+# Invitation to Participate
+
+Come join
+
+# How to participate
+- This
+- That
