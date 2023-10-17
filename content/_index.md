@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: ML Reproducibility Challenge
 type: book # Do not modify.
 toc: false
@@ -12,7 +12,7 @@ Edit 4!
 Edit 5!
 Edit 6!
 
-{{< cta cta_text="👉 Get Started with Chapter 1" cta_link="chapter1" >}} -->
+{{< cta cta_text="👉 Get Started with Chapter 1" cta_link="chapter1" >}}
 
 # ML Reproducibility Challenge 2023
 
