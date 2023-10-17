@@ -1,3 +1,18 @@
+---
+# Title, summary, and page position.
+linktitle: FAQ
+weight: 1
+icon: book
+icon_pack: fas
+
+# Page metadata.
+title: FAQ
+date: '2018-09-09T00:00:00Z'
+type: book # Do not modify.
+---
+
+# Frequenty Asked Questions
+
 This page consists of some frequently asked questions about the challenge.
 
 ## Can I reproduce a workshop paper from the listed conferences?

@@ -1,3 +1,16 @@
+---
+# Title, summary, and page position.
+linktitle: Registration
+weight: 1
+icon: book
+icon_pack: fas
+
+# Page metadata.
+title: Registration
+date: '2018-09-09T00:00:00Z'
+type: book # Do not modify.
+---
+
 # Registration for RC2023
 
 Registration and project submissions will be handled by our [Link]()
