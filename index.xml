@@ -1,1 +1,215 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ML Reproducibility Challenge | MLRC2023</title><link>https://example.com/</link><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><description>ML Reproducibility Challenge</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>ML Reproducibility Challenge</title><link>https://example.com/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ML Reproducibility Challenge | MLRC2023</title><link>https://example.com/</link><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><description>ML Reproducibility Challenge</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate><image><url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>ML Reproducibility Challenge</title><link>https://example.com/</link></image><item><title>Announcing MLRC 2023</title><link>https://example.com/blog/announcing_mlrc2023/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>https://example.com/blog/announcing_mlrc2023/</guid><description>&lt;p>Every year since 2018, we have conducted the Machine Learning Reproducibility
+Challenge (see previous years
+&lt;a href="https://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html" target="_blank" rel="noopener">v1&lt;/a>,
+&lt;a href="https://www.cs.mcgill.ca/~jpineau/ICLR2019-ReproducibilityChallenge.html" target="_blank" rel="noopener">v2&lt;/a>,
+&lt;a href="https://reproducibility-challenge.github.io/neurips2019/" target="_blank" rel="noopener">v3&lt;/a>,
+&lt;a href="https://reproducibility-challenge.github.io/neurips2019/" target="_blank" rel="noopener">v4&lt;/a>,
+&lt;a href="https://paperswithcode.com/rc2021" target="_blank" rel="noopener">v5&lt;/a>,
+&lt;a href="https://paperswithcode.com/rc2022" target="_blank" rel="noopener">v6&lt;/a>), which invites the ML community to
+examine the reproducibility of existing, recently published papers in top
+conferences. As we gear up to announce the seventh iteration of the challenge,
+MLRC 2023, we would like to share our learnings from previous years and how we
+plan to incorporate these lessons into the upcoming challenge.&lt;/p>
+&lt;h2 id="retrospectives">Retrospectives&lt;/h2>
+&lt;p>Over the years, the ML Reproducibility Challenge has been largely aimed at
+students beginning their journey in ML research as part of their ML coursework.
+This provided an accessible entry point to ML research, allowing early career
+researchers to participate and learn a full paper publication lifecycle - from
+designing the research question to investigating the limits of a scientific
+hypothesis to final publication acceptance. One of the success stories of this
+approach was from the University of Amsterdam, which designed a course around
+the challenge
+(&lt;a href="https://studiegids.uva.nl/xmlpages/page/2022-2023-en/search-course/course/99121" target="_blank" rel="noopener">FACT AI&lt;/a>),
+and consistently produced high quality reproducibility reports in the final
+proceedings of the challenge. While the challenge is a valuable resource to ML
+course instructors and early career ML researchers, we are eager for the
+challenge to grow in scope and impact. More specifically, we want to encourage
+ML researchers to contribute novel research that will improve scientific
+practice and understanding in the field. We thus identified several shortcomings
+of the current model following our retrospection of the submitted and accepted
+papers in the challenge.&lt;/p>
+&lt;p>While the challenge is a valuable resource to ML course instructors and early
+career ML researchers, we are eager for the challenge to grow in scope and
+impact. More specifically, we want to encourage ML researchers to contribute
+novel research that will improve scientific practice and understanding in the
+field. We thus identified several shortcomings of the current model following
+our retrospection of the submitted and accepted papers in the challenge.&lt;/p>
+&lt;h3 id="reproducibility-is-not-a-binary-outcome">Reproducibility is not a binary outcome&lt;/h3>
+&lt;p>The term “reproducibility” unfortunately comes with a baggage - whenever we talk
+about a paper to be reproducible, the expectation is this binary property - yes
+or no. However, the reality is way more nuanced: a paper presents multiple
+hypotheses (claims) of varying importance to the central claim - which some of
+them can be directly reproducible, others might not be; some of the claims may
+even be limited in terms “generalisability” (cite Pineau et al 2020).
+Consequently, we consistently found the quality of the reports submitted to the
+challenge fall into either of these two categories: a) making a sweeping claim
+about reproducibility, or b) diving deep and constructing a holistic view of
+reproducibility, replicability and generalisability of the claims presented in
+the original paper. Not surprisingly, the latter cohort is always highly rated
+by the reviewers and ends up more often in the accepted pool. From the
+&lt;a href="https://paperswithcode.com/rc2020/registration" target="_blank" rel="noopener">2020 iteration&lt;/a>, we introduced
+a Reproducibility Summary template to encourage participants to focus on the
+central claims of the paper, and to mainly focus on this generalisability
+aspect - results beyond the original paper. We found that introducing this
+template helps the authors to focus more on these questions, thereby improving
+their submission.&lt;/p>
+&lt;h3 id="reproducibility-is-not-about-whether-authors-code-gives-the-same-results">Reproducibility is not about whether author’s code gives the same results&lt;/h3>
+&lt;p>Thanks to the continued effort made by the ML community in terms of Checklists
+and mandatory code submission policies, we now see &amp;gt;90% of papers accompanied by
+their source code. This is a very promising progress regarding reproducibility
+of the research in our field - the presence of code alleviates many questions
+and issues regarding the implementation, thereby facilitating exact
+reproducibility. Inadvertently, this also resulted in many MLRC submissions
+where authors only run the provided code and compare the numbers. While these
+contributions measure replicability, they are not strong research contributions
+which add valuable insights to the field. Instead, strong submissions tend to
+leverage the authors code to make exhaustive ablations, hyperparameter search
+and explore generalisability results on different data/models.&lt;/p>
+&lt;h3 id="redundant-reproductions-of-the-same-resource-friendly-papers">Redundant reproductions of the same resource-friendly papers&lt;/h3>
+&lt;p>For several years, we find that authors tend to pick papers which are more
+resource-friendly - i.e. papers which can run on a single commodity GPU. This is
+likely a side-effect of the challenge being targeted primarily towards early
+career researchers. While reproducibility study on such resource-light papers is
+not a problem per se, it does often result in multiple reproduction reports on
+the same paper. We hypothesize that this is probably due to courses assigning
+multiple groups to work on a single paper, in order to better manage logistics.
+As we did not have any deduplication criteria, we explicitly inform our
+reviewers to not penalize multiple reproducibility reports on the same paper. We
+aimed to reduce this by introducing a pre-registration phase early on
+(&lt;a href="https://www.cs.mcgill.ca/~jpineau/ICLR2019-ReproducibilityChallenge.html" target="_blank" rel="noopener">2019&lt;/a>,
+&lt;a href="https://paperswithcode.com/rc2020/registration" target="_blank" rel="noopener">2020&lt;/a>), however that turned out
+to be logistically challenging leading us to discontinue it. In our opinion,
+cherry-picking the same paper reduces the breadth of papers being reproduced in
+the challenge, invites duplication in work and overall lessens the scientific
+contribution to the community.&lt;/p>
+&lt;h3 id="low-signal-reviews-due-to-inexperienced-reviewers">Low signal reviews due to inexperienced reviewers&lt;/h3>
+&lt;p>Reviewing for the ML Reproducibility Challenge is unique - it requires the
+reviewer to first read and understand the original paper(s) and then perform a
+critical judgment of the reproducibility report. Hence, workload wise, reviewing
+for this challenge requires twice the amount of time per paper than a standard
+ML conference. We therefore typically try to evenly reduce the reviewing
+workload, with a maximum of two papers per reviewer. Over the last several
+iterations, barring from the top reviewers, we observed a concerning trend of
+low signal reviews. We hypothesize this mainly due to the different format and
+higher workload. To remedy this, we have introduced comprehensive reviewer
+guidelines, and also awarded top reviewer awards to further incentivize high
+quality reviews. We are grateful to our reviewers for their consistent support,
+and we have observed a steady number of reviewers who consistently provide high
+quality, useful reviews and hence feature in the top reviewers list on multiple
+occasions.&lt;/p>
+&lt;h3 id="low-incentives-to-publish-a-reproducibility-report">Low incentives to publish a reproducibility report&lt;/h3>
+&lt;p>From the inception of the challenge, we have partnered with ReScience as our
+journal publication medium. &lt;a href="https://rescience.github.io/" target="_blank" rel="noopener">ReScience&lt;/a> is a peer
+reviewed, open journal focusing on reproducibility reports across many different
+fields of computational science, making it a unique venue. ReScience journal
+editorial process is open and live on &lt;a href="https://github.com/ReScience" target="_blank" rel="noopener">Github&lt;/a>,
+making it very convenient to access. However, we have observed that the
+popularity of ReScience in the Machine Learning community is still low, limiting
+the incentives of publication at the challenge. Furthermore, we found ReScience
+journal entries are not yet
+&lt;a href="https://github.com/ReScience/rescience.github.io/issues/113" target="_blank" rel="noopener">properly indexed&lt;/a>
+by Google Scholar, although the editors are working hard to fix that. Another
+issue was since MLRC is not a workshop at any major conference, the original
+format did not have any option to present papers to the community, hurting the
+incentives even further. Since 2022, we have partnered with
+&lt;a href="https://blog.neurips.cc/2022/08/15/journal-showcase/" target="_blank" rel="noopener">NeurIPS&lt;/a> to allow poster
+presentations of accepted papers at the Journal to Conference Track, which
+significantly increases the incentive and prestige of publishing papers at MLRC.
+We have also partnered with
+&lt;a href="https://www.kaggle.com/reproducibility-challenge-2022" target="_blank" rel="noopener">Kaggle&lt;/a> in our last
+iteration to provide accepted papers compute credits to further incentivize
+submission and high quality research. Authors of top papers were granted a
+significant amount of compute credits by Kaggle to further pursue their
+research.&lt;/p>
+&lt;h2 id="on-the-road-ahead">On the road ahead&lt;/h2>
+&lt;p>We want to continue improving the challenge on the following aspects: broadening
+the target audience, broadening the scope and improving incentives, to make the
+challenge more exciting to the community and encourage reproducible research.&lt;/p>
+&lt;p>We are thus happy to announce the formal partnership with
+&lt;a href="https://jmlr.org/tmlr/" target="_blank" rel="noopener">Transactions of Machine Learning Research (TMLR)&lt;/a>
+journal. TMLR is a new journal in the ML community, which is under the umbrella
+of Journal of Machine Learning Research (JMLR), and has been fast growing in
+significance and reputation within the field. Unlike JMLR, TMLR caters to
+shorter format manuscripts similar to conference proceedings, and employs a fast
+and open reviewing cycle, ensuring high quality submissions. Therefore, in the
+upcoming iteration (MLRC 2023), papers will be published at TMLR instead of
+ReScience.&lt;/p>
+&lt;h3 id="broadening-the-target-audience">Broadening the target audience&lt;/h3>
+&lt;p>While the MLRC will still be useful for the early-career researchers in ML
+courses, we want to expand and encourage submissions from the broader community,
+including academia and industry. Since TMLR publication accounts for
+significantly high prestige and reception in the ML community, we hope this
+change would attract a broad range of researchers to contribute to the
+advancement of our understanding of reproducibility.&lt;/p>
+&lt;h3 id="increasing-the-bar-of-submissions">Increasing the bar of submissions&lt;/h3>
+&lt;p>As we look forward, the focus of a reproducibility paper should be much more
+than mere reproduction - it should ideally investigate the generalisability of
+the original claims. Results and investigations beyond what the authors proposed
+are therefore encouraged, which adds to the novelty of the contribution. We
+discourage simple replication work - while they are useful, they do not provide
+enough value to the community. Submissions having multi-paper, topic-based
+focused contributions are preferred over single paper reproductions. Novel work
+on tools to investigate and enable reproducible research are also welcome to the
+submission. We also recommend you to read TMLR’s
+&lt;a href="https://jmlr.org/tmlr/editorial-policies.html" target="_blank" rel="noopener">submission guidelines and
+editorial policies&lt;/a> which also
+applies equally to MLRC submissions.&lt;/p>
+&lt;h3 id="implementing-a-comprehensive-and-open-reviewing-cycle">Implementing a comprehensive and open reviewing cycle&lt;/h3>
+&lt;p>As we partner with TMLR, we also leverage their open, comprehensive reviewing
+mechanism. Papers submitted to MLRC would first undergo TMLR’s reviewing
+process. TMLR employs rich and diverse reviewers from the ML community, along
+with expert Action Editors. Reviews will be viewed publicly on
+&lt;a href="https://openreview.net/group?id=TMLR" target="_blank" rel="noopener">OpenReview&lt;/a>, and TMLR comes with a quick
+reviewing turnaround which includes author rebuttals - a highly requested
+feature in our previous iterations.&lt;/p>
+&lt;h3 id="improving-incentives-to-participate-in-the-challenge">Improving incentives to participate in the challenge&lt;/h3>
+&lt;p>Publication of MLRC papers at TMLR will improve the reception and dissemination
+of the work in the broader ML community. Accepted papers at TMLR are announced
+in mailing lists and social media on
+&lt;a href="https://jmlr.org/tmlr/contact.html" target="_blank" rel="noopener">a regular basis&lt;/a>. Papers accepted at TMLR
+are indexed in Google Scholar using the existing OpenReview mechanism, allowing
+easy citations and tracking cited counts. We also hope to continue our existing
+partnership with NeurIPS to present accepted papers in the Journal to Conference
+Showcase Track, allowing further dissemination and opportunity to gain feedback
+from the ML community. (If you are attending NeurIPS 2023 in person, checkout
+the Journal to Conference Track poster session for MLRC 2022 accepted papers!)&lt;/p>
+&lt;h3 id="providing-a-new-home-for-mlrc-web">Providing a new home for MLRC web&lt;/h3>
+&lt;p>We are happy to announce our new and permanent online home,
+&lt;a href="http://reproml.org" target="_blank" rel="noopener">reproml.org&lt;/a>. Announcements, information and blog posts
+about MLRC 2023 and all subsequent iterations will be hosted in this dedicated
+space. We are grateful to PapersWithCode for providing online hosting for our
+past three iterations!&lt;/p>
+&lt;h2 id="mlrc-2023-call-for-papers">MLRC 2023 Call for Papers&lt;/h2>
+&lt;p>Finally, we are happy to formally announce MLRC 2023, which will go live
+starting on &lt;strong>October 23rd&lt;/strong>! We invite contributions from academics,
+practitioners and industry researchers of the ML community to submit novel and
+insightful reproducibility studies.&lt;/p>
+&lt;p>We recommend you choose any paper(s) published in the 2023 calendar year from
+the top conferences and journals (NeurIPS, ICML, ICLR, ACL, EMNLP, ECCV, CVPR,
+TMLR, JMLR, TACL) to run your reproducibility study on.&lt;/p>
+&lt;p>In order for your paper to be submitted and presented at MLRC 2023, it first
+needs to be &lt;strong>accepted and published&lt;/strong> at TMLR. While TMLR aims to follow a
+2-months timeline to complete the review process of its regular submissions,
+this timeline is not guaranteed. If you haven’t already, we therefore recommend
+submitting your original paper to TMLR by &lt;strong>February 16th, 2024&lt;/strong>, that is a
+little over 3 months in advance of the MLRC publication announcement date.&lt;/p>
+&lt;ul>
+&lt;li>Challenge goes live: October 23, 2023&lt;/li>
+&lt;li>Deadline to share your intent to submit a TMLR paper to MLRC: February 16th,
+2024 &lt;strong>Form: &lt;a href="https://forms.gle/JJ28rLwBSxMriyE89" target="_blank" rel="noopener">https://forms.gle/JJ28rLwBSxMriyE89&lt;/a>&lt;/strong>. This form requires that
+you provide a link to your TMLR submission. Once it gets accepted (if it isn’t
+already), you should then update the same form with your paper camera ready
+details.&lt;/li>
+&lt;li>Your accepted TMLR paper will finally undergo a light AC review to verify MLRC
+compatibility.&lt;/li>
+&lt;li>We aim to announce the accepted papers by May 31st, 2024, pending decisions of
+all papers.&lt;/li>
+&lt;/ul>
+&lt;h2 id="closing-thoughts">Closing Thoughts&lt;/h2>
+&lt;p>As we begin a new era of reproducibility research in Machine Learning, we hope
+our continued quest for high quality reproducibility studies will inspire the
+community to not only investigate the claims of existing papers, but add novel
+research insights and contributions to the literature, accelerating the progress
+of science. We hope these steps towards improving the incentives of investing in
+reproducibility research enables the community to produce higher quality
+scientific contributions.&lt;/p></description></item></channel></rss>
