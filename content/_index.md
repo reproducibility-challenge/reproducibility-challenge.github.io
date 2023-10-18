@@ -28,12 +28,17 @@ We invite contributions from academics, practitioners and industry researchers
 of the ML community to submit novel and insightful reproducibility studies.
 Please read our [blog post](/blog/announcing_mlrc2023/) regarding our
 retrospectives of running the challenge and the future roadmap. We are happy to
-announce the formal partnership with Transactions of Machine Learning Research
-(TMLR) journal. The challenge goes live on **October 23, 2023**.
+announce the formal partnership with
+[Transactions of Machine Learning Research (TMLR)](https://jmlr.org/tmlr/)
+journal. The challenge goes live on **October 23, 2023**.
 
 We recommend you choose any paper(s) published in the 2023 calendar year from
 the top conferences and journals (NeurIPS, ICML, ICLR, ACL, EMNLP, ECCV, CVPR,
 TMLR, JMLR, TACL) to run your reproducibility study on.
+
+{{< figure src="uploads/mlrc.drawio.svg" class="mlrc_dark" >}}
+
+{{< figure src="uploads/mlrc.light.drawio.svg" class="mlrc_light" >}}
 
 In order for your paper to be submitted and presented at MLRC 2023, it first
 needs to be **accepted and published** at TMLR. While TMLR aims to follow a
@@ -56,8 +61,10 @@ little over 3 months in advance of the MLRC publication announcement date.
 
 ## Contact Information
 
-For general queries regarding the challenge, mail us at
-reproducibility.challenge@gmail.com.
+- For query regarding MLRC 2023, mail us at:
+  [mlrc-2023@googlegroups.com](mailto:mlrc-2023@googlegroups.com).
+- For general queries, media, sponsorship, partnership requests, mail us at
+  [reproducibility.challenge@gmail.com](reproducibility.challenge@gmail.com).
 
 ## Organizing Committee
 

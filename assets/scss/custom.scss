@@ -1,0 +1,6 @@
+body:not(.dark) .mlrc_dark {
+  display: none;
+}
+.dark .mlrc_light {
+  display: none;
+}
