@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: FAQ
-weight: 1
+weight: 50
 icon: book
 icon_pack: fas
 

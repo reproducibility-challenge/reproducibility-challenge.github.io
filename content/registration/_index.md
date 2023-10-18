@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Registration
-weight: 1
+weight: 10
 icon: book
 icon_pack: fas
 

@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Awards
-weight: 1
+weight: 30
 icon: book
 icon_pack: fas
 
