@@ -3,7 +3,7 @@ title: Announcing MLRC 2023
 linktitle: Announcing MLRC 2023
 toc: true
 type: book
-date: "2019-05-05T00:00:00+01:00"
+date: "2023-10-18T00:00:00+01:00"
 draft: false
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -229,6 +229,10 @@ insightful reproducibility studies.
 We recommend you choose any paper(s) published in the 2023 calendar year from
 the top conferences and journals (NeurIPS, ICML, ICLR, ACL, EMNLP, ECCV, CVPR,
 TMLR, JMLR, TACL) to run your reproducibility study on.
+
+{{< figure src="../../uploads/mlrc.drawio.svg" class="mlrc_dark" >}}
+
+{{< figure src="../../uploads/mlrc.light.drawio.svg" class="mlrc_light" >}}
 
 In order for your paper to be submitted and presented at MLRC 2023, it first
 needs to be **accepted and published** at TMLR. While TMLR aims to follow a
