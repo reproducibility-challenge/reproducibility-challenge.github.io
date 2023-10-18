@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Registration
 weight: 10
-icon: book
+icon: register-svgrepo-com
 icon_pack: fas
 
 # Page metadata.

@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Awards
 weight: 30
-icon: book
+icon: trophy-svgrepo-com
 icon_pack: fas
 
 # Page metadata.

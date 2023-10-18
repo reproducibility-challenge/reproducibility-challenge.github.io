@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Resources
 weight: 40
-icon: book
+icon: books-svgrepo-com
 icon_pack: fas
 
 # Page metadata.

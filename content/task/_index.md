@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Task
 weight: 20
-icon: book
+icon: task-square-svgrepo-com
 icon_pack: fas
 
 # Page metadata.

@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: FAQ
 weight: 50
-icon: book
+icon: faq-file-svgrepo-com
 icon_pack: fas
 
 # Page metadata.
