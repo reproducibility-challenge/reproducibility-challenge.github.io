@@ -13,6 +13,7 @@ baseURL: 'https://example.com/' # Website URL
 cascade:
   - _target:
       path: /blog/**
+    pager: true
     editable: true
     show_breadcrumb: true
 
