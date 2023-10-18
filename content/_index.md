@@ -68,18 +68,19 @@ little over 3 months in advance of the MLRC publication announcement date.
 
 ## Organizing Committee
 
-- Koustuv Sinha, Meta (FAIR)
-- Jessica Zosa Forde, Brown University
-- Mandana Samiei, McGill University, Mila
-- Arna Ghosh, McGill University, Mila
-- Lintang Sutawika, Eleuther AI
+- Koustuv Sinha, _Meta (FAIR)_
+- Jessica Zosa Forde, _Brown University_
+- Mandana Samiei, _McGill University, Mila_
+- Arna Ghosh, _McGill University, Mila_
+- Lintang Sutawika, _Eleuther AI_
 
 ## Reproducible ML Advisory Board
 
-- Joelle Pineau, Meta (FAIR), McGill University, Mila
-- Hugo Larochelle, Google Deepmind, Université de Montréal, Mila
-- Robert Stojnic, Meta
-- D. Sculley, Kaggle
+- Joelle Pineau, _Meta (FAIR), McGill University, Mila_
+- Hugo Larochelle, _Google Deepmind, Université de Montréal, Mila_
+- Robert Stojnic, _Meta_
+- D. Sculley, _Kaggle_
+- Sasha Luccioni, _Hugging Face_
 
 ## Acknowledgements
 
