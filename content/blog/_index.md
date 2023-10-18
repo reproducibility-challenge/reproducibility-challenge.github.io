@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Blog
-weight: 20
+weight: 1
 icon: task-square-svgrepo-com
 icon_pack: fas
 
@@ -9,6 +9,6 @@ icon_pack: fas
 title: Blog
 date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
-toc: false
+toc: true
 ---
 
