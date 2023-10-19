@@ -7,18 +7,18 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Registration
-    url: registration/
-    weight: 20
-  - name: Task
-    url: task/
-    weight: 30
-  - name: Awards
-    url: awards/
-    weight: 40
-  - name: Resources
-    url: challange_resources/
-    weight: 50
-  - name: FAQ
-    url: faq/
-    weight: 60
+  # - name: Registration
+  #   url: registration/
+  #   weight: 20
+  # - name: Task
+  #   url: task/
+  #   weight: 30
+  # - name: Awards
+  #   url: awards/
+  #   weight: 40
+  # - name: Resources
+  #   url: challange_resources/
+  #   weight: 50
+  # - name: FAQ
+  #   url: faq/
+  #   weight: 60

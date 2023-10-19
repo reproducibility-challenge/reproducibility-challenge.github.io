@@ -1,10 +1,10 @@
 ---
 title: Announcing MLRC 2023
-linktitle: Announcing MLRC 2023
 toc: true
 type: book
 date: "2023-10-18T00:00:00+01:00"
 draft: false
+hidden: true
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
