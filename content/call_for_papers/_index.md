@@ -29,6 +29,8 @@ considered in the MLRC 2023 Proceedings. Please read the
 [author guidelines](https://jmlr.org/tmlr/author-guide.html) and
 [submission guidelines](https://jmlr.org/tmlr/editorial-policies.html) from TMLR
 to get the submission format and to understand more about the reviewing process.
+Please read our [announcement blog post](/blog/announcing_mlrc2023/) for more
+motivation, retrospectives and roadmap for the challenge.
 
 ## Important Dates
 
@@ -42,6 +44,13 @@ to get the submission format and to understand more about the reviewing process.
   a light AC review to verify MLRC compatibility.
 - We aim to announce the accepted papers by **May 31st, 2024**, pending
   decisions of all papers.
+
+For query regarding MLRC 2023, contact us at
+[mlrc-2023@googlegroups.com](mailto:mlrc-2023@googlegroups.com).
+
+Koustuv Sinha
+
+Program Chair, MLRC 2023
 
 <!-- ## Task Scope
 
