@@ -179,7 +179,7 @@ As we look forward, the focus of a reproducibility paper should be much more
 than mere reproduction - it should ideally investigate the generalisability of
 the original claims. Results and investigations beyond what the authors proposed
 are therefore encouraged, which adds to the novelty of the contribution. We
-discourage simple replication work - while they are useful, they do not provide
+discourage simple reproduction work - while they are useful, they do not provide
 enough value to the community. Submissions having multi-paper, topic-based
 focused contributions are preferred over single paper reproductions. Novel work
 on tools to investigate and enable reproducible research are also welcome to the

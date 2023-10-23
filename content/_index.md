@@ -1,26 +1,25 @@
 ---
-title: ML Reproducibility Challenge
+title: ML Reproducibility Challenge 2023
 type: book # Do not modify.
 toc: false
 headless: true
 ---
 
-Welcome to the ML Reproducibility Challenge 2023. This is the seventh edition of
-the event
+Welcome to the ML Reproducibility Challenge 2023 (**MLRC 2023**). This is the
+seventh edition of the event
 ([v1](https://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html),
 [v2](https://www.cs.mcgill.ca/~jpineau/ICLR2019-ReproducibilityChallenge.html),
 [v3](https://reproducibility-challenge.github.io/neurips2019/),
 [v4](https://paperswithcode.com/rc2020),
 [v5](https://paperswithcode.com/rc2021),
-[v6](https://paperswithcode.com/rc2022))
-
-The primary goal of this event is to encourage the publishing and sharing of
-scientific results that are reliable and reproducible. In support of this, the
-objective of this challenge is to investigate reproducibility of papers accepted
-for publication at top conferences by inviting members of the community at large
-to select a paper, and verify the empirical results and claims in the paper by
-reproducing the computational experiments, either via a new implementation or
-using code/data or other information provided by the authors.
+[v6](https://paperswithcode.com/rc2022)). The primary goal of this event is to
+encourage the publishing and sharing of scientific results that are reliable and
+reproducible. In support of this, the objective of this challenge is to
+investigate reproducibility of papers accepted for publication at top
+conferences by inviting members of the community at large to select a paper, and
+verify the empirical results and claims in the paper by reproducing the
+computational experiments, either via a new implementation or using code/data or
+other information provided by the authors.
 
 ## Call For Papers
 
@@ -33,8 +32,14 @@ announce the formal partnership with
 journal. The challenge goes live on **October 23, 2023**.
 
 We recommend you choose any paper(s) published in the 2023 calendar year from
-the top conferences and journals (NeurIPS, ICML, ICLR, ACL, EMNLP, ECCV, CVPR,
-TMLR, JMLR, TACL) to run your reproducibility study on.
+the top conferences and journals ([NeurIPS](https://neurips.cc/),
+[ICML](https://icml.cc/), [ICLR](https://iclr.cc/),
+[ACL](https://2023.aclweb.org/), [EMNLP](https://2023.emnlp.org/),
+[ICCV](https://iccv2023.thecvf.com/),
+[CVPR](https://cvpr2023.thecvf.com/Conferences/2023),
+[TMLR](https://jmlr.org/tmlr/), [JMLR](https://jmlr.org/),
+[TACL](https://transacl.org/index.php/tacl)) to run your reproducibility study
+on.
 
 {{< figure src="uploads/mlrc.drawio.svg" class="mlrc_dark" >}}
 
@@ -65,27 +70,3 @@ little over 3 months in advance of the MLRC publication announcement date.
   [mlrc-2023@googlegroups.com](mailto:mlrc-2023@googlegroups.com).
 - For general queries, media, sponsorship, partnership requests, mail us at
   [reproducibility.challenge@gmail.com](reproducibility.challenge@gmail.com).
-
-## Organizing Committee
-
-- Koustuv Sinha, _Meta (FAIR)_
-- Jessica Zosa Forde, _Brown University_
-- Mandana Samiei, _McGill University, Mila_
-- Arna Ghosh, _McGill University, Mila_
-- Lintang Sutawika, _Eleuther AI_
-
-## Reproducible ML Advisory Board
-
-- Joelle Pineau, _Meta (FAIR), McGill University, Mila_
-- Hugo Larochelle, _Google Deepmind, Université de Montréal, Mila_
-- Robert Stojnic, _Meta_
-- D. Sculley, _Kaggle_
-- Sasha Luccioni, _Hugging Face_
-
-## Acknowledgements
-
-- Reviewers
-- Organizers
-- PapersWithCode
-- Kaggle
-- OpenReview

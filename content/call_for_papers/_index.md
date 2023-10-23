@@ -7,23 +7,41 @@ icon_pack: fas
 
 # Page metadata.
 title: Call for Papers
-date: "2018-09-09T00:00:00Z"
+date: "2023-10-22T00:00:00Z"
 type: book # Do not modify.
 ---
 
-## Task Description
+The Machine Learning Reproducibility Challenge (MLRC 2023) is an unique, online
+conference which encourages the community to investigate the reproducibility,
+replicability and generalisability of published claims in top conferences in the
+literature. We invite submissions which investigate the recently published
+claims, add novel insights to them, and enable reproducible research, spanning
+various topics in the ML literature. We recommend you choose any paper(s)
+published in the 2023 calendar year from the top conferences and journals
+([NeurIPS](https://neurips.cc/), [ICML](https://icml.cc/),
+[ICLR](https://iclr.cc/), [ACL](https://2023.aclweb.org/),
+[EMNLP](https://2023.emnlp.org/), [ICCV](https://iccv2023.thecvf.com/),
+[CVPR](https://cvpr2023.thecvf.com/Conferences/2023),
+[TMLR](https://jmlr.org/tmlr/), [JMLR](https://jmlr.org/),
+[TACL](https://transacl.org/index.php/tacl)) to run your reproducibility study
+on. Submissions must be first accepted at [TMLR](https://jmlr.org/tmlr/) to be
+considered in the MLRC 2023 Proceedings. Please read the
+[author guidelines](https://jmlr.org/tmlr/author-guide.html) and
+[submission guidelines](https://jmlr.org/tmlr/editorial-policies.html) from TMLR
+to get the submission format and to understand more about the reviewing process.
 
-You can select a paper from the list of accepted papers from the list of partner
-conferences and aim to replicate the main claim described in the paper. The
-objective is to assess if the experiments are reproducible, and to determine if
-the conclusions of the paper are supported by your findings. Your results can be
-either positive (i.e. confirm reproducibility), or negative (i.e. explain what
-you were unable to reproduce, and potentially explain why).
+## Important Dates
 
-**Essentially, think of your role as an inspector verifying the validity of the
-experimental results and conclusions of the paper. In some instances, your role
-will also extend to helping the authors improve the quality of their work and
-paper.**
+- Challenge goes live: October 23, 2023
+- Submit to TMLR OpenReview: https://openreview.net/group?id=TMLR
+- Deadline to share your **intent to submit** a TMLR paper to MLRC: **February
+  16th, 2024** at the following form: **https://forms.gle/JJ28rLwBSxMriyE89**.
+  This form requires that you provide a link to your TMLR submission. Once it
+  gets accepted (if it isn’t already), you should then update the same form with
+  your paper camera ready details. Your accepted TMLR paper will finally undergo
+  a light AC review to verify MLRC compatibility.
+- We aim to announce the accepted papers by **May 31st, 2024**, pending
+  decisions of all papers.
 
 <!-- ## Task Scope
 

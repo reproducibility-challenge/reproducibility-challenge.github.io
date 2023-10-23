@@ -7,68 +7,41 @@ icon_pack: fas
 
 # Page metadata.
 title: FAQ
-date: "2023-10-18T00:00:00Z"
+date: "2023-10-22T00:00:00Z"
 type: book # Do not modify.
 toc: false
 ---
 
 This page consists of some frequently asked questions about the challenge.
 
-**Can I reproduce a workshop paper from the listed conferences?** Unfortunately
+**Can I reproduce workshop papers from the listed conferences?** Unfortunately
 no, as of now we are not accepting reports on workshop papers from the listed
 conferences. Please work on any accepted papers from the conference proceedings.
 
-**I want to reproduce a paper from a conference not listed in the challenge. Can
-I?** Before starting to work on it, please contact the organizers to confirm, as
-your request will be evaluated on a case-by-case basis.
+**I want to reproduce paper(s) from conferences not listed in the challenge. Can
+I?** We recommend you choose any paper(s) published in the 2023 calendar year
+from the top conferences and journals ([NeurIPS](https://neurips.cc/),
+[ICML](https://icml.cc/), [ICLR](https://iclr.cc/),
+[ACL](https://2023.aclweb.org/), [EMNLP](https://2023.emnlp.org/),
+[ICCV](https://iccv2023.thecvf.com/),
+[CVPR](https://cvpr2023.thecvf.com/Conferences/2023),
+[TMLR](https://jmlr.org/tmlr/), [JMLR](https://jmlr.org/),
+[TACL](https://transacl.org/index.php/tacl)) to run your reproducibility study
+on.
 
-**I want to reproduce a paper from a previous year conference paper. Can I?**
-Typically we do allow it if the paper is published within a couple of years
-prior to the current scope of conferences. Although, before starting to work on
-it, please contact the organizers to confirm, as your request will be evaluated
-on a case-by-case basis.
-
-**How many team members are allowed?** Any number of team members are allowed.
-
-**Do all team members have to be from the same institution?** Not at all, we
-encourage cross-institute participation! In that case, add the institutions of
-your team members in a comma separated format in the claims and report
-submission forms in OpenReview.
-
-**Do I have to add team members based on author order?** No, author order will
-depend on your final report.
-
-**Do I need to be registered at a course to participate?** No, you can
-participate independently on your own. Participation from industry is especially
-welcome!
+**I want to reproduce a papers from a previous year conference paper. Can I?**
+While we recommended you to choose paper(s) to work on from the current calendar
+year, you can also choose to reproduce an older paper published in the same
+conferences.
 
 **I am a course instructor, how do I participate officially with my course?**
 Many thanks for your participation! You can just drop us a mail
 (reproducibility.challenge@gmail.com) with details of your course, and we will
 list it on our website!
 
-**I am a course instructor, can I forward my reviews on the reports of my
-class?** Yes! If your course ends earlier than the submission deadline and you
-have already graded the assignments, you can directly send us the evaluations!
-Have your students submit their report in our OpenReview portal, and drop us a
-mail at reproducibility.challenge@gmail.com with the evaluations paired with the
-submission links.
-
-**I am a student participant from a course, but I do not see my course listed?**
-Please contact your course instructor or TA to send us a mail
-(reproducibility.challenge@gmail.com) to register your course. We will update
-the website periodically and add new courses.
-
 **I am from industry, can I participate?** Yes you are more than welcome to!
 Please consider sharing the word about the challenge to your peers in your
 company too!
-
-**This is all nice, but what do I gain from participating?** You will first add
-to the knowledge of the original paper. Peer reviewed reports will be showcased
-on PapersWithCode and published in the ReScience Journal. Starting this year, we
-are partnering with NeurIPS conference to showcase the accepted papers as a
-poster session in the main conference. Please check the following announcement
-for details.
 
 **Where can I get GPUs to run experiments?** Check the Resources tab for more
 information.
@@ -89,29 +62,13 @@ is usually updated with the publicly released code of the authors.
 extent of the original code you can use for the reproducibility effort.
 
 **Is the submission double blind?** Yes, the report to be submitted should be
-double blind. When submitting code for review, include your codebase in the
-Supplementary Materials, or link to an Anonymous Github URL.
+double blind, according to
+[TMLR's submission policies](https://jmlr.org/tmlr/editorial-policies.html).
+When submitting code for review, include your codebase in the Supplementary
+Materials, or link to an Anonymous Github URL.
 
-**What is the format of the report?** You can find the style files of the report
-in this template.
-
-**Is the Reproducibility Summary section of the report mandatory?** Yes! You
-should use our style files and add the “Reproducibility Summary” in the first
-page of your report. Make sure this summary does not exceed the first page.
-Failure of adding this summary will result in desk rejection.
-
-**Does the Reproducibility Summary count towards the page limit?** Yes, the
-Reproducibility Summary counts towards the total page limit (nine pages).
-
-**When I am submitting the report, what should I write in the “Abstract”
-field?** You should copy your Reproducibility Summary in the abstract field. You
-should add a line separator between sections, and ensure the summary is properly
-formatted.
-
-**If my report is selected, how do I submit to ReScience?** Once your report is
-accepted, you will be required to submit the final draft by camera-ready
-deadline. Details of this process will be communicated to you after acceptance
-notification.
+**What is the format of the paper?** Please consult
+[TMLR's author guidelines](https://jmlr.org/tmlr/author-guide.html).
 
 **This is super exciting, how can I help?** Thanks for your interest in our
 challenge! You can help out by spreading the news. If you are a
