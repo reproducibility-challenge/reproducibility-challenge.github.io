@@ -40,6 +40,8 @@ Code submission are mandatory for all submitted papers. We recommend that you:
 ## Suggested Readings
 
 - [Online Proceedings of MLRC](/proceedings/)
+- Arvind Narayanan et al, 2023;
+  _[Talk: Evaluating LLMs is a Minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)_
 - [ACL 2022 Tutorial](https://acl-reproducibility-tutorial.github.io/) on
   “Towards Reproducible Machine Learning Research in Natural Language
   Processing”
