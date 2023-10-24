@@ -10,6 +10,34 @@ main:
   - name: Submission Form
     url: https://forms.gle/JJ28rLwBSxMriyE89
     weight: 20
+  - name: Past Iterations
+    identifier: past
+    url : #
+    weight: 30
+  - name: MLRC 2022
+    url: https://paperswithcode.com/rc2022
+    weight: 10
+    parent: past
+  - name: MLRC 2021
+    url: https://paperswithcode.com/rc2021
+    weight: 20
+    parent: past
+  - name: MLRC 2020
+    url: https://paperswithcode.com/rc2020
+    weight: 30
+    parent: past
+  - name: NeurIPS 2019
+    url: https://reproml.org/neurips2019/
+    weight: 40
+    parent: past
+  - name: ICLR 2019
+    url: https://www.cs.mcgill.ca/~jpineau/ICLR2019-ReproducibilityChallenge.html
+    weight: 50
+    parent: past
+  - name: ICLR 2018
+    url: https://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html
+    weight: 60
+    parent: past
   # - name: Task
   #   url: task/
   #   weight: 30
