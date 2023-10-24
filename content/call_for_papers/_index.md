@@ -40,10 +40,17 @@ motivation, retrospectives and roadmap for the challenge.
   16th, 2024** at the following form: **https://forms.gle/JJ28rLwBSxMriyE89**.
   This form requires that you provide a link to your TMLR submission. Once it
   gets accepted (if it isn’t already), you should then update the same form with
-  your paper camera ready details. Your accepted TMLR paper will finally undergo
-  a light AC review to verify MLRC compatibility.
+  your paper camera ready details.
 - We aim to announce the accepted papers by **May 31st, 2024**, pending
   decisions of all papers.
+
+## Camera Ready Process
+
+- After you have updated the form with your accepted TMLR paper, it will finally
+  undergo a light AC review to verify MLRC compatibility.
+- We will publish a proceedings booklet post announcement of all decisions.
+- Accepted papers will be featured in our website along with 5-min companion
+  videos.
 
 For query regarding MLRC 2023, contact us at
 [mlrc-2023@googlegroups.com](mailto:mlrc-2023@googlegroups.com).
