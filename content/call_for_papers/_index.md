@@ -16,21 +16,32 @@ conference which encourages the community to investigate the reproducibility,
 replicability and generalisability of published claims in top conferences in the
 literature. We invite submissions which investigate the recently published
 claims, add novel insights to them, and enable reproducible research, spanning
-various topics in the ML literature. We recommend you choose any paper(s)
-published in the 2023 calendar year from the top conferences and journals
-([NeurIPS](https://neurips.cc/), [ICML](https://icml.cc/),
-[ICLR](https://iclr.cc/), [ACL](https://2023.aclweb.org/),
-[EMNLP](https://2023.emnlp.org/), [ICCV](https://iccv2023.thecvf.com/),
-[CVPR](https://cvpr2023.thecvf.com/Conferences/2023),
-[TMLR](https://jmlr.org/tmlr/), [JMLR](https://jmlr.org/),
-[TACL](https://transacl.org/index.php/tacl)) to run your reproducibility study
-on. Submissions must be first accepted at [TMLR](https://jmlr.org/tmlr/) to be
-considered in the MLRC 2023 Proceedings. Please read the
-[author guidelines](https://jmlr.org/tmlr/author-guide.html) and
+various topics in the ML literature. Submissions must be first accepted at
+[TMLR](https://jmlr.org/tmlr/) to be considered in the MLRC 2023 Proceedings.
+Please read the [author guidelines](https://jmlr.org/tmlr/author-guide.html) and
 [submission guidelines](https://jmlr.org/tmlr/editorial-policies.html) from TMLR
 to get the submission format and to understand more about the reviewing process.
 Please read our [announcement blog post](/blog/announcing_mlrc2023/) for more
 motivation, retrospectives and roadmap for the challenge.
+
+## Scope
+
+We invite thorough reproducibility studies, including but not limited to:
+
+- _Generalisability_ of published claims: novel insights and results beyond what
+  was presented in the original paper. We recommend you choose any paper(s)
+  published in the 2023 calendar year from the top conferences and journals
+  ([NeurIPS](https://neurips.cc/), [ICML](https://icml.cc/),
+  [ICLR](https://iclr.cc/), [ACL](https://2023.aclweb.org/),
+  [EMNLP](https://2023.emnlp.org/), [ICCV](https://iccv2023.thecvf.com/),
+  [CVPR](https://cvpr2023.thecvf.com/Conferences/2023),
+  [TMLR](https://jmlr.org/tmlr/), [JMLR](https://jmlr.org/),
+  [TACL](https://transacl.org/index.php/tacl)) to run your reproducibility study
+  on.
+- Meta-reproducibility studies on set of related papers.
+- Research on tools enabling reproducible research.
+- Meta analysis on the state of reproducibility in various subfields in Machine
+  Learning.
 
 ## Important Dates
 

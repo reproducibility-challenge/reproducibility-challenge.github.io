@@ -224,7 +224,8 @@ past three iterations!
 Finally, we are happy to formally announce MLRC 2023, which will go live
 starting on **October 23rd**! We invite contributions from academics,
 practitioners and industry researchers of the ML community to submit novel and
-insightful reproducibility studies.
+insightful reproducibility studies. Please read our
+[Call for Papers](/call_for_papers/) for more information.
 
 We recommend you choose any paper(s) published in the 2023 calendar year from
 the top conferences and journals (NeurIPS, ICML, ICLR, ACL, EMNLP, ECCV, CVPR,
