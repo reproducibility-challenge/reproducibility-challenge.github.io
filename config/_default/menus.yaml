@@ -7,9 +7,9 @@ main:
   - name: Home
     url: /
     weight: 10
-  # - name: Registration
-  #   url: registration/
-  #   weight: 20
+  - name: Submission Form
+    url: https://forms.gle/JJ28rLwBSxMriyE89
+    weight: 20
   # - name: Task
   #   url: task/
   #   weight: 30
