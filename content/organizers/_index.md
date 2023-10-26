@@ -28,6 +28,7 @@ type: book # Do not modify.
 - Hugo Larochelle, _Google Deepmind, Université de Montréal, Mila_
 - Robert Stojnic, _Meta_
 - Sasha Luccioni, _Hugging Face_
+- Stella Biderman, _Booz Allen Hamilton, EleutherAI_
 
 <!-- ## Acknowledgements -->
 <!---->

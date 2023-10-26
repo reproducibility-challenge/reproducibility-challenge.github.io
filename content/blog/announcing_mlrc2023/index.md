@@ -262,3 +262,6 @@ research insights and contributions to the literature, accelerating the progress
 of science. We hope these steps towards improving the incentives of investing in
 reproducibility research enables the community to produce higher quality
 scientific contributions.
+
+_The MLRC 2023 Organizing Team thanks Joelle Pineau, Hugo Larochelle and Gautam
+Kamath on feedback for drafting this blog post._
