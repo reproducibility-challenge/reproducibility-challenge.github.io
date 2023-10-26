@@ -20,6 +20,7 @@ type: book # Do not modify.
 - Mandana Samiei, _McGill University, Mila_
 - Arna Ghosh, _McGill University, Mila_
 - Lintang Sutawika, _Eleuther AI_
+- Siba Smarak Panigrahi, _McGill University, Mila_
 
 ## Reproducible ML Advisory Board
 
