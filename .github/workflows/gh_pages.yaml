@@ -1,5 +1,8 @@
 name: github pages
 
+env:
+  WC_HUGO_VERSION: '0.119.0'
+
 on:
   push:
     branches:
@@ -18,7 +21,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
 
       - name: Build
