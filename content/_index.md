@@ -21,7 +21,83 @@ verify the empirical results and claims in the paper by reproducing the
 computational experiments, either via a new implementation or using code/data or
 other information provided by the authors.
 
-## Call For Papers
+## An update on decisions
+
+_July 5th, 2024_
+
+We initially communicated to have all decisions of MLRC 2023 out by 31st of
+May, 2024. Unfortunately, several submissions are still under review at TMLR,
+and we are waiting for the final decisions to trickle in. Overall, MLRC 2023 had
+46 valid submissions, out of which we have recieved decisions on 61% of them. We
+are in touch with TMLR to expedite the process of decisions for the remaining
+submissions - we expect all decisions to come in by the next couple of weeks.
+
+Until then, we are happy to announce the (partial) list of accepted papers.
+Congratulations to all :tada:! If you are an author of the below mentioned
+papers and have not [submitted the form](https://forms.gle/JJ28rLwBSxMriyE89)
+with the camera ready items, please consider doing so at the earliest. We will
+reach out to the accepted authors soon with the next steps.
+
+- Ana-Maria Vasilcoiu, Batu Helvacioğlu, Thies Kersten, Thijs Stessen;
+  _GNNInterpreter: A probabilistic generative model-level explanation for Graph
+  Neural Networks_, [OpenReview](https://openreview.net/forum?id=8cYcR23WUo)
+- Miklos Hamar, Matey Krastev, Kristiyan Hristov, David Beglou; _Explaining
+  Temporal Graph Models through an Explorer-Navigator Framework_,
+  [OpenReview](https://openreview.net/forum?id=FI1XvwpchC)
+- Clio Feng, Colin Bot, Bart den Boef, Bart Aaldering; _Reproducibility Study of
+  "Explaining RL Decisions with Trajectories"_,
+  [OpenReview](https://openreview.net/forum?id=JQoWmeNaC2)
+- Ethan Harvey, Mikhail Petrov, Michael C. Hughes; _Transfer Learning with
+  Informative Priors: Simple Baselines Better than Previously Reported_,
+  [OpenReview](https://openreview.net/forum?id=BbvSU02jLg)
+- Gijs de Jong,Macha Meijer,Derck W.E. Prinzhorn,Harold Ruiter; _Reproducibility
+  study of FairAC_, [OpenReview](https://openreview.net/forum?id=ccDi5jtSF7)
+- Nesta Midavaine, Gregory Hok Tjoan Go, Diego Canez, Ioana Simion, Satchit
+  Chatterji; _On the Reproducibility of Post-Hoc Concept Bottleneck Models_;
+  [OpenReview](https://openreview.net/forum?id=8UfhCZjOV7)
+- Jiapeng Fan, Paulius Skaigiris, Luke Cadigan, Sebastian Uriel Arias;
+  _Reproducibility Study of "Learning Perturbations to Explain Time Series
+  Predictions"_, [OpenReview](https://openreview.net/forum?id=fCNqD2IuoD)
+- Karim Ahmed Abdel Sadek, Matteo Nulli, Joan Velja, Jort Vincenti; _Explaining
+  RL Decisions with Trajectories’: A Reproducibility Study_,
+  [OpenReview](https://openreview.net/forum?id=QdeBbK5CSh)
+- Markus Semmler, Miguel de Benito Delgado; _Classwise-Shapley values for data
+  valuation_ [OpenReview](https://openreview.net/forum?id=srFEYJkqD7)
+- Abdel Sadek Karim Ahmed, Nulli Matteo, Velja Joan, Vincenti Jort; _Explaining
+  RL Decisions with Trajectories: A Reproducibility Study_,
+  [OpenReview](https://openreview.net/forum?id=QdeBbK5CSh)
+- Daniel Gallo Fernández, Răzvan-Andrei Matișan, Alejandro Monroy Muñoz, Janusz
+  Partyka; _Reproducibility Study of "ITI-GEN: Inclusive Text-to-Image
+  Generation"_ [OpenReview](https://openreview.net/forum?id=d3Vj360Wi2)
+- Kacper Bartosik, Eren Kocadag, Vincent Loos, Lucas Ponticelli;
+  _Reproducibility study of "Robust Fair Clustering: A Novel Fairness Attack and
+  Defense Framework"_, [OpenReview](https://openreview.net/forum?id=Xu1sEPhjqH)
+- Barath Chandran C; _CUDA: Curriculum of Data Augmentation for Long‐Tailed
+  Recognition_, [OpenReview](https://openreview.net/forum?id=Wm6d44I8St)
+- Kacper Bartosik, Eren Kocadag, Vincent Loos, Lucas Ponticelli;
+  _Reproducibility study of "Robust Fair Clustering: A Novel Fairness Attack and
+  Defense Framework"_, [OpenReview](https://openreview.net/forum?id=Xu1sEPhjqH)
+- Christina Isaicu, Jesse Wonnink, Andreas Berentzen, Helia Ghasemi;
+  _Reproducibility Study of “Explaining Temporal Graph Models Through an
+  Explorer-Navigator Framework"_,
+  [OpenReview](https://openreview.net/forum?id=9M2XqvH2SB)
+- Iason Skylitsis, Zheng Feng, Idries Nasim, Camille Niessink; _Reproducibility
+  Study of "Robust Fair Clustering: A Novel Fairness Attack and Defense
+  Framework"_, [OpenReview](https://openreview.net/forum?id=H1hLNjwrGy)
+- Fatemeh Nourilenjan Nokabadi, Jean-Francois Lalonde, Christian Gagné;
+  _Reproducibility Study on Adversarial Attacks Against Robust Transformer
+  Trackers_, [OpenReview](https://openreview.net/forum?id=FEEKR0Vl9s)
+- Luan Fletcher, Robert van der Klis, Martin Sedlacek, Stefan Vasilev, Christos
+  Athanasiadis; _Reproducibility study of “LICO: Explainable Models with
+  Language-Image Consistency"_,
+  [OpenReview](https://openreview.net/forum?id=Mf1H8X5DVb)
+
+If you have submitted your paper to TMLR and still awaiting a decision, please
+consider contacting the Action Editor assigned to your paper, and cc us in your
+correspondance. We hope the decisions will be reflected soon, and we will update
+this list with additional accepted papers.
+
+## [Deprecated] Call For Papers
 
 We invite contributions from academics, practitioners and industry researchers
 of the ML community to submit novel and insightful reproducibility studies.
@@ -61,8 +137,8 @@ little over 3 months in advance of the MLRC publication announcement date.
   gets accepted (if it isn’t already), you should then update the same form with
   your paper camera ready details. Your accepted TMLR paper will finally undergo
   a light AC review to verify MLRC compatibility.
-- We aim to announce the accepted papers by **May 31st, 2024**, pending
-  decisions of all papers.
+- We aim to announce the accepted papers by ~~**May 31st, 2024**~~ **July 17th,
+  2024**, pending decisions of all papers.
 
 ## Contact Information
 
