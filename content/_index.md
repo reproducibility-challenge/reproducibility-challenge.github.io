@@ -21,22 +21,14 @@ verify the empirical results and claims in the paper by reproducing the
 computational experiments, either via a new implementation or using code/data or
 other information provided by the authors.
 
-## An update on decisions
+## Final decisions for MLRC 2023
 
-_July 5th, 2024_
-
-We initially communicated to have all decisions of MLRC 2023 out by 31st of
-May, 2024. Unfortunately, several submissions are still under review at TMLR,
-and we are waiting for the final decisions to trickle in. Overall, MLRC 2023 had
-46 valid submissions, out of which we have recieved decisions on 61% of them. We
-are in touch with TMLR to expedite the process of decisions for the remaining
-submissions - we expect all decisions to come in by the next couple of weeks.
-
-Until then, we are happy to announce the (partial) list of accepted papers.
-Congratulations to all :tada:! If you are an author of the below mentioned
-papers and have not [submitted the form](https://forms.gle/JJ28rLwBSxMriyE89)
-with the camera ready items, please consider doing so at the earliest. We will
-reach out to the accepted authors soon with the next steps.
+We are now releasing the final list of decisions for MLRC 2023. This list
+includes the previous partial list published on July 5th, 2024. We have given
+additional time to TMLR to complete the reviews, however it is unfortunate that
+few papers are still awaiting a decision due to unresponsive Action Editors from
+TMLR. As we need to wrap up this edition, we are proceeding with the final list
+of 22 accepted papers. Congratulations to all!
 
 - Ana-Maria Vasilcoiu, Batu Helvacioğlu, Thies Kersten, Thijs Stessen;
   _GNNInterpreter: A probabilistic generative model-level explanation for Graph
@@ -91,11 +83,45 @@ reach out to the accepted authors soon with the next steps.
   Athanasiadis; _Reproducibility study of “LICO: Explainable Models with
   Language-Image Consistency"_,
   [OpenReview](https://openreview.net/forum?id=Mf1H8X5DVb)
+- Wouter Bant, Ádám Divák, Jasper Eppink, Floris Six Dijkstra; _On the
+  Reproducibility of: "Learning Perturbations to Explain Time Series
+  Predictions"_, [OpenReview](https://openreview.net/forum?id=nPZgtpfgIx)
+- Berkay Chakar,Amina Izbassar,Mina Janićijević,Jakub Tomaszewski;
+  _Reproducibility Study: Equal Improvability: A New Fairness Notion Considering
+  the Long-Term Impact_,
+  [OpenReview](https://openreview.net/forum?id=Yj8fUQGXXL)
+- Oliver Bentham, Nathan Stringham, Ana Marasović; _Chain-of-Thought
+  Unfaithfulness as Disguised Accuracy_,
+  [OpenReview](https://openreview.net/forum?id=ydcrP55u2e)
+- Shivank Garg, Manyana Tiwari; _Unmasking the Veil: An Investigation into
+  Concept Ablation for Privacy and Copyright Protection in Images_
+  [OpenReview](https://openreview.net/forum?id=TYYApLzjaQ)
 
-If you have submitted your paper to TMLR and still awaiting a decision, please
-consider contacting the Action Editor assigned to your paper, and cc us in your
-correspondance. We hope the decisions will be reflected soon, and we will update
-this list with additional accepted papers.
+If you are an author of the below mentioned papers and have not
+[submitted the form](https://forms.gle/JJ28rLwBSxMriyE89) with the camera ready
+items, please consider doing so at the earliest. We will reach out to the
+accepted authors soon with the next steps. We will also announce the best paper
+awards and share details on the logistics of NeurIPS poster session in the
+coming weeks.
+
+## An update on decisions
+
+_July 5th, 2024_
+
+We initially communicated to have all decisions of MLRC 2023 out by 31st of
+May, 2024. Unfortunately, several submissions are still under review at TMLR,
+and we are waiting for the final decisions to trickle in. Overall, MLRC 2023 had
+46 valid submissions, out of which we have recieved decisions on 61% of them. We
+are in touch with TMLR to expedite the process of decisions for the remaining
+submissions - we expect all decisions to come in by the next couple of weeks.
+
+Until then, we are happy to announce the (partial) list of accepted papers.
+Congratulations to all :tada:! If you are an author of the below mentioned
+papers and have not [submitted the form](https://forms.gle/JJ28rLwBSxMriyE89)
+with the camera ready items, please consider doing so at the earliest. We will
+reach out to the accepted authors soon with the next steps.
+
+_(partial paper list removed as we release the final list above)_
 
 ## [Deprecated] Call For Papers
 
