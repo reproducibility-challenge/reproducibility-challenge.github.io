@@ -55,9 +55,6 @@ of 22 accepted papers. Congratulations to all!
   [OpenReview](https://openreview.net/forum?id=QdeBbK5CSh)
 - Markus Semmler, Miguel de Benito Delgado; _Classwise-Shapley values for data
   valuation_ [OpenReview](https://openreview.net/forum?id=srFEYJkqD7)
-- Abdel Sadek Karim Ahmed, Nulli Matteo, Velja Joan, Vincenti Jort; _Explaining
-  RL Decisions with Trajectories: A Reproducibility Study_,
-  [OpenReview](https://openreview.net/forum?id=QdeBbK5CSh)
 - Daniel Gallo Fernández, Răzvan-Andrei Matișan, Alejandro Monroy Muñoz, Janusz
   Partyka; _Reproducibility Study of "ITI-GEN: Inclusive Text-to-Image
   Generation"_ [OpenReview](https://openreview.net/forum?id=d3Vj360Wi2)
@@ -66,9 +63,6 @@ of 22 accepted papers. Congratulations to all!
   Defense Framework"_, [OpenReview](https://openreview.net/forum?id=Xu1sEPhjqH)
 - Barath Chandran C; _CUDA: Curriculum of Data Augmentation for Long‐Tailed
   Recognition_, [OpenReview](https://openreview.net/forum?id=Wm6d44I8St)
-- Kacper Bartosik, Eren Kocadag, Vincent Loos, Lucas Ponticelli;
-  _Reproducibility study of "Robust Fair Clustering: A Novel Fairness Attack and
-  Defense Framework"_, [OpenReview](https://openreview.net/forum?id=Xu1sEPhjqH)
 - Christina Isaicu, Jesse Wonnink, Andreas Berentzen, Helia Ghasemi;
   _Reproducibility Study of “Explaining Temporal Graph Models Through an
   Explorer-Navigator Framework"_,
