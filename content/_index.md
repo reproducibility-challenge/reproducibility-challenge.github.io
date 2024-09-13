@@ -90,6 +90,13 @@ of 22 accepted papers. Congratulations to all!
 - Shivank Garg, Manyana Tiwari; _Unmasking the Veil: An Investigation into
   Concept Ablation for Privacy and Copyright Protection in Images_
   [OpenReview](https://openreview.net/forum?id=TYYApLzjaQ)
+- Adrian Sauter, Milan Miletić, Ryan Ott, Rohith Saai Pemmasani Prabakaran;
+  _Studying How to Efficiently and Effectively Guide Models with Explanations” -
+  A Reproducibility Study_,
+  [OpenReview](https://openreview.net/forum?id=9ZzASCVhDF)
+- Thijmen Nijdam, Taiki Papandreou-Lazos, Jurgen de Heus, Juell Sprott;
+  _Reproducibility Study Of Learning Fair Graph Representations Via Automated
+  Data Augmentations_, [OpenReview](https://openreview.net/forum?id=4WiqHopXQX)
 
 If you are an author of the below mentioned papers and have not
 [submitted the form](https://forms.gle/JJ28rLwBSxMriyE89) with the camera ready
@@ -97,6 +104,10 @@ items, please consider doing so at the earliest. We will reach out to the
 accepted authors soon with the next steps. We will also announce the best paper
 awards and share details on the logistics of NeurIPS poster session in the
 coming weeks.
+
+**Update, Sept 13th, 2024**: A couple of papers received acceptance status post
+our final date of MLRC 2023 acceptance. We have now incorporated them too in the
+final list.
 
 ## An update on decisions
 
