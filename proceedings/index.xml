@@ -1,1 +1,91 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Online Proceedings | MLRC2023</title><link>https://example.com/proceedings/</link><atom:link href="https://example.com/proceedings/index.xml" rel="self" type="application/rss+xml"/><description>Online Proceedings</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu01e218cfd9d302fe44ebd3672696cf1d_8740_512x512_fill_lanczos_center_3.png</url><title>Online Proceedings</title><link>https://example.com/proceedings/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Online Proceedings | MLRC</title><link>https://example.com/proceedings/</link><atom:link href="https://example.com/proceedings/index.xml" rel="self" type="application/rss+xml"/><description>Online Proceedings</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/logo_hu01e218cfd9d302fe44ebd3672696cf1d_8740_300x300_fit_lanczos_3.png</url><title>Online Proceedings</title><link>https://example.com/proceedings/</link></image><item><title>MLRC 2023</title><link>https://example.com/proceedings/mlrc2023/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><guid>https://example.com/proceedings/mlrc2023/</guid><description>&lt;h2 id="final-decisions-for-mlrc-2023">Final decisions for MLRC 2023&lt;/h2>
+&lt;p>We are now releasing
+&lt;a href="https://example.com/proceedings/#2023proceedingsmlrc2023">the final list of decisions for MLRC 2023&lt;/a>.
+This list includes the previous partial list published on July 5th, 2024. We
+have given additional time to TMLR to complete the reviews, however it is
+unfortunate that few papers are still awaiting a decision due to unresponsive
+Action Editors from TMLR. As we need to wrap up this edition, we are proceeding
+with the final list of 22 accepted papers. Congratulations to all!&lt;/p>
+&lt;p>If you are an author of the below mentioned papers and have not
+&lt;a href="https://forms.gle/JJ28rLwBSxMriyE89" target="_blank" rel="noopener">submitted the form&lt;/a> with the camera ready
+items, please consider doing so at the earliest. We will reach out to the
+accepted authors soon with the next steps. We will also announce the best paper
+awards and share details on the logistics of NeurIPS poster session in the
+coming weeks.&lt;/p>
+&lt;p>&lt;strong>Update, Sept 13th, 2024&lt;/strong>: A couple of papers received acceptance status post
+our final date of MLRC 2023 acceptance. We have now incorporated them too in the
+final list.&lt;/p>
+&lt;h2 id="an-update-on-decisions">An update on decisions&lt;/h2>
+&lt;p>&lt;em>July 5th, 2024&lt;/em>&lt;/p>
+&lt;p>We initially communicated to have all decisions of MLRC 2023 out by 31st of
+May, 2024. Unfortunately, several submissions are still under review at TMLR,
+and we are waiting for the final decisions to trickle in. Overall, MLRC 2023 had
+46 valid submissions, out of which we have recieved decisions on 61% of them. We
+are in touch with TMLR to expedite the process of decisions for the remaining
+submissions - we expect all decisions to come in by the next couple of weeks.&lt;/p>
+&lt;p>Until then, we are happy to announce the (partial) list of accepted papers.
+Congratulations to all 🎉! If you are an author of the below mentioned
+papers and have not &lt;a href="https://forms.gle/JJ28rLwBSxMriyE89" target="_blank" rel="noopener">submitted the form&lt;/a>
+with the camera ready items, please consider doing so at the earliest. We will
+reach out to the accepted authors soon with the next steps.&lt;/p>
+&lt;p>&lt;em>(partial paper list removed as we release the final list above)&lt;/em>&lt;/p>
+&lt;h2 id="deprecated-call-for-papers">[Deprecated] Call For Papers&lt;/h2>
+&lt;p>We invite contributions from academics, practitioners and industry researchers
+of the ML community to submit novel and insightful reproducibility studies.
+Please read our &lt;a href="https://example.com/blog/announcing_mlrc2023/">blog post&lt;/a> regarding our
+retrospectives of running the challenge and the future roadmap. We are happy to
+announce the formal partnership with
+&lt;a href="https://jmlr.org/tmlr/" target="_blank" rel="noopener">Transactions of Machine Learning Research (TMLR)&lt;/a>
+journal. The challenge goes live on &lt;strong>October 23, 2023&lt;/strong>.&lt;/p>
+&lt;p>We recommend you choose any paper(s) published in the 2023 calendar year from
+the top conferences and journals (&lt;a href="https://neurips.cc/" target="_blank" rel="noopener">NeurIPS&lt;/a>,
+&lt;a href="https://icml.cc/" target="_blank" rel="noopener">ICML&lt;/a>, &lt;a href="https://iclr.cc/" target="_blank" rel="noopener">ICLR&lt;/a>,
+&lt;a href="https://2023.aclweb.org/" target="_blank" rel="noopener">ACL&lt;/a>, &lt;a href="https://2023.emnlp.org/" target="_blank" rel="noopener">EMNLP&lt;/a>,
+&lt;a href="https://iccv2023.thecvf.com/" target="_blank" rel="noopener">ICCV&lt;/a>,
+&lt;a href="https://cvpr2023.thecvf.com/Conferences/2023" target="_blank" rel="noopener">CVPR&lt;/a>,
+&lt;a href="https://jmlr.org/tmlr/" target="_blank" rel="noopener">TMLR&lt;/a>, &lt;a href="https://jmlr.org/" target="_blank" rel="noopener">JMLR&lt;/a>,
+&lt;a href="https://transacl.org/index.php/tacl" target="_blank" rel="noopener">TACL&lt;/a>) to run your reproducibility study
+on.&lt;/p>
+&lt;figure class="mlrc_dark" >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="uploads/mlrc.drawio.svg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure class="mlrc_light" >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="uploads/mlrc.light.drawio.svg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>In order for your paper to be submitted and presented at MLRC 2023, it first
+needs to be &lt;strong>accepted and published&lt;/strong> at TMLR. While TMLR aims to follow a
+2-months timeline to complete the review process of its regular submissions,
+this timeline is not guaranteed. If you haven’t already, we therefore recommend
+submitting your original paper to TMLR by &lt;strong>February 16th, 2024&lt;/strong>, that is a
+little over 3 months in advance of the MLRC publication announcement date.&lt;/p>
+&lt;h2 id="key-dates">Key Dates&lt;/h2>
+&lt;ul>
+&lt;li>Challenge goes live: October 23, 2023&lt;/li>
+&lt;li>Deadline to share your &lt;strong>intent to submit&lt;/strong> a TMLR paper to MLRC: &lt;strong>February
+16th, 2024&lt;/strong> at the following form: &lt;strong>&lt;a href="https://forms.gle/JJ28rLwBSxMriyE89" target="_blank" rel="noopener">https://forms.gle/JJ28rLwBSxMriyE89&lt;/a>&lt;/strong>.
+This form requires that you provide a link to your TMLR submission. Once it
+gets accepted (if it isn’t already), you should then update the same form with
+your paper camera ready details. Your accepted TMLR paper will finally undergo
+a light AC review to verify MLRC compatibility.&lt;/li>
+&lt;li>We aim to announce the accepted papers by &lt;del>&lt;strong>May 31st, 2024&lt;/strong>&lt;/del> &lt;strong>July 17th,
+2024&lt;/strong>, pending decisions of all papers.&lt;/li>
+&lt;/ul>
+&lt;h2 id="contact-information">Contact Information&lt;/h2>
+&lt;ul>
+&lt;li>For query regarding MLRC 2023, mail us at:
+&lt;a href="mailto:mlrc-2023@googlegroups.com">mlrc-2023@googlegroups.com&lt;/a>.&lt;/li>
+&lt;li>For general queries, media, sponsorship, partnership requests, mail us at
+&lt;a href="reproducibility.challenge@gmail.com">reproducibility.challenge@gmail.com&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;h2 id="organizing-committee">Organizing Committee&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://koustuvsinha.com/" target="_blank" rel="noopener">Koustuv Sinha&lt;/a>, &lt;em>Meta (FAIR)&lt;/em>&lt;/li>
+&lt;li>&lt;a href="https://jzf2101.github.io/" target="_blank" rel="noopener">Jessica Zosa Forde&lt;/a>, &lt;em>Brown University&lt;/em>&lt;/li>
+&lt;li>&lt;a href="https://twitter.com/mandanasamiei" target="_blank" rel="noopener">Mandana Samiei&lt;/a>, &lt;em>McGill University, Mila&lt;/em>&lt;/li>
+&lt;li>&lt;a href="https://arnaghosh.github.io/" target="_blank" rel="noopener">Arna Ghosh&lt;/a>, &lt;em>McGill University, Mila&lt;/em>&lt;/li>
+&lt;li>&lt;a href="https://twitter.com/lintangsutawika" target="_blank" rel="noopener">Lintang Sutawika&lt;/a>, &lt;em>Eleuther AI&lt;/em>&lt;/li>
+&lt;li>&lt;a href="https://sibasmarak.github.io/" target="_blank" rel="noopener">Siba Smarak Panigrahi&lt;/a>, &lt;em>McGill University,
+Mila&lt;/em>&lt;/li>
+&lt;/ul></description></item></channel></rss>
