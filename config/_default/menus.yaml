@@ -14,6 +14,10 @@ main:
     identifier: past
     url : #
     weight: 30
+  - name: MLRC 2023
+    url: /proceedings/mlrc2023/
+    weight: 5
+    parent: past
   - name: MLRC 2022
     url: https://paperswithcode.com/rc2022
     weight: 10
