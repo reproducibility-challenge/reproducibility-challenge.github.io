@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | MLRC 2025</title><link>https://example.com/blog/</link><atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml"/><description>Blog</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/logo_hu2dcfcb07216d770198d1c2e3d0ce095f_364849_300x300_fit_lanczos_3.png</url><title>Blog</title><link>https://example.com/blog/</link></image><item><title>Announcing MLRC 2025, our first in-person conference</title><link>https://example.com/blog/announcing_mlrc2025/</link><pubDate>Thu, 12 Dec 2024 00:00:00 +0100</pubDate><guid>https://example.com/blog/announcing_mlrc2025/</guid><description>&lt;p>We are excited to announce the 8th iteration of the Machine Learning
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | MLRC 2025</title><link>https://reproml.org/blog/</link><atom:link href="https://reproml.org/blog/index.xml" rel="self" type="application/rss+xml"/><description>Blog</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate><image><url>https://reproml.org/media/sharing.png</url><title>Blog</title><link>https://reproml.org/blog/</link></image><item><title>Announcing MLRC 2025, our first in-person conference</title><link>https://reproml.org/blog/announcing_mlrc2025/</link><pubDate>Thu, 12 Dec 2024 00:00:00 +0100</pubDate><guid>https://reproml.org/blog/announcing_mlrc2025/</guid><description>&lt;p>We are excited to announce the 8th iteration of the Machine Learning
 Reproducibility Challenge, MLRC 2025, which will also be the first, in-person
 conference, hosted at Princeton University, New Jersey, USA on August 21st,
 2025!&lt;/p>
@@ -10,11 +10,11 @@ running as an online conference for the last seven years
 &lt;a href="https://reproducibility-challenge.github.io/neurips2019/" target="_blank" rel="noopener">v3&lt;/a>,
 &lt;a href="https://reproducibility-challenge.github.io/neurips2019/" target="_blank" rel="noopener">v4&lt;/a>,
 &lt;a href="https://paperswithcode.com/rc2021" target="_blank" rel="noopener">v5&lt;/a>,
-&lt;a href="https://paperswithcode.com/rc2022" target="_blank" rel="noopener">v6&lt;/a>, &lt;a href="https://example.com/proceedings/mlrc2023/">v7&lt;/a>). This
+&lt;a href="https://paperswithcode.com/rc2022" target="_blank" rel="noopener">v6&lt;/a>, &lt;a href="https://reproml.org/proceedings/mlrc2023/">v7&lt;/a>). This
 limits the incentives to submit to the conference, as online mode doesn’t offer
 the authors to showcase their work and network among researchers in the same
 domain. We have been systematically trying to address this issue by
-&lt;a href="https://example.com/blog/announcing_mlrc2023/">improving the submission and publication process&lt;/a>,
+&lt;a href="https://reproml.org/blog/announcing_mlrc2023/">improving the submission and publication process&lt;/a>,
 and partnering with several conferences over the years, either by a workshop, or
 more recently through a
 &lt;a href="https://blog.neurips.cc/2022/08/15/journal-showcase/" target="_blank" rel="noopener">Journal-to-Conference&lt;/a>
@@ -36,7 +36,7 @@ backdated, as in MLRC 2023 actually happens in 2024, due to incorporating papers
 published in 2023. As we move on to be an in-person conference, to closer align
 with the format of ML conferences and also in favor of broadening our scope, we
 are therefore dropping the version 2024 and moving directly to MLRC 2025.&lt;/p>
-&lt;p>We therefore announce the &lt;a href="https://example.com/call_for_papers/">call for papers&lt;/a> for MLRC 2025. We
+&lt;p>We therefore announce the &lt;a href="https://reproml.org/call_for_papers/">call for papers&lt;/a> for MLRC 2025. We
 invite submissions which conduct novel, unpublished research of reproducibility
 of machine learning methods and literature, including but not limited to :&lt;/p>
 &lt;ul>
@@ -106,7 +106,7 @@ contact us at &lt;a href="mailto:mlrc-2025@googlegroups.com">mlrc-2025@googlegro
 &lt;a href="mailto:reproducibility.challenge@gmail.com">reproducibility.challenge@gmail.com&lt;/a> if you have any feedback / suggestions.&lt;/p>
 &lt;p>Looking forward to a successful conference next year!&lt;/p>
 &lt;p>Koustuv Sinha, General Chair&lt;/p>
-&lt;p>&lt;em>on behalf of the MLRC 2025 Organizers&lt;/em>&lt;/p></description></item><item><title>Announcing MLRC 2023</title><link>https://example.com/blog/announcing_mlrc2023/</link><pubDate>Wed, 18 Oct 2023 00:00:00 +0100</pubDate><guid>https://example.com/blog/announcing_mlrc2023/</guid><description>&lt;p>Every year since 2018, we have conducted the Machine Learning Reproducibility
+&lt;p>&lt;em>on behalf of the MLRC 2025 Organizers&lt;/em>&lt;/p></description></item><item><title>Announcing MLRC 2023</title><link>https://reproml.org/blog/announcing_mlrc2023/</link><pubDate>Wed, 18 Oct 2023 00:00:00 +0100</pubDate><guid>https://reproml.org/blog/announcing_mlrc2023/</guid><description>&lt;p>Every year since 2018, we have conducted the Machine Learning Reproducibility
 Challenge (see previous years
 &lt;a href="https://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html" target="_blank" rel="noopener">v1&lt;/a>,
 &lt;a href="https://www.cs.mcgill.ca/~jpineau/ICLR2019-ReproducibilityChallenge.html" target="_blank" rel="noopener">v2&lt;/a>,
@@ -293,7 +293,7 @@ past three iterations!&lt;/p>
 starting on &lt;strong>October 23rd&lt;/strong>! We invite contributions from academics,
 practitioners and industry researchers of the ML community to submit novel and
 insightful reproducibility studies. Please read our
-&lt;a href="https://example.com/call_for_papers/">Call for Papers&lt;/a> for more information.&lt;/p>
+&lt;a href="https://reproml.org/call_for_papers/">Call for Papers&lt;/a> for more information.&lt;/p>
 &lt;p>We recommend you choose any paper(s) published in the 2023 calendar year from
 the top conferences and journals (NeurIPS, ICML, ICLR, ACL, EMNLP, ECCV, CVPR,
 TMLR, JMLR, TACL) to run your reproducibility study on.&lt;/p>

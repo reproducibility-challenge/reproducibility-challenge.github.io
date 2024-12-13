@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Online Proceedings | MLRC 2025</title><link>https://example.com/proceedings/</link><atom:link href="https://example.com/proceedings/index.xml" rel="self" type="application/rss+xml"/><description>Online Proceedings</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/logo_hu2dcfcb07216d770198d1c2e3d0ce095f_364849_300x300_fit_lanczos_3.png</url><title>Online Proceedings</title><link>https://example.com/proceedings/</link></image><item><title>MLRC 2023</title><link>https://example.com/proceedings/mlrc2023/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><guid>https://example.com/proceedings/mlrc2023/</guid><description>&lt;h2 id="final-decisions-for-mlrc-2023">Final decisions for MLRC 2023&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Online Proceedings | MLRC 2025</title><link>https://reproml.org/proceedings/</link><atom:link href="https://reproml.org/proceedings/index.xml" rel="self" type="application/rss+xml"/><description>Online Proceedings</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate><image><url>https://reproml.org/media/sharing.png</url><title>Online Proceedings</title><link>https://reproml.org/proceedings/</link></image><item><title>MLRC 2023</title><link>https://reproml.org/proceedings/mlrc2023/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><guid>https://reproml.org/proceedings/mlrc2023/</guid><description>&lt;h2 id="final-decisions-for-mlrc-2023">Final decisions for MLRC 2023&lt;/h2>
 &lt;p>We are now releasing
-&lt;a href="https://example.com/proceedings/#2023proceedingsmlrc2023">the final list of decisions for MLRC 2023&lt;/a>.
+&lt;a href="https://reproml.org/proceedings/#2023proceedingsmlrc2023">the final list of decisions for MLRC 2023&lt;/a>.
 This list includes the previous partial list published on July 5th, 2024. We
 have given additional time to TMLR to complete the reviews, however it is
 unfortunate that few papers are still awaiting a decision due to unresponsive
@@ -32,7 +32,7 @@ reach out to the accepted authors soon with the next steps.&lt;/p>
 &lt;h2 id="deprecated-call-for-papers">[Deprecated] Call For Papers&lt;/h2>
 &lt;p>We invite contributions from academics, practitioners and industry researchers
 of the ML community to submit novel and insightful reproducibility studies.
-Please read our &lt;a href="https://example.com/blog/announcing_mlrc2023/">blog post&lt;/a> regarding our
+Please read our &lt;a href="https://reproml.org/blog/announcing_mlrc2023/">blog post&lt;/a> regarding our
 retrospectives of running the challenge and the future roadmap. We are happy to
 announce the formal partnership with
 &lt;a href="https://jmlr.org/tmlr/" target="_blank" rel="noopener">Transactions of Machine Learning Research (TMLR)&lt;/a>
