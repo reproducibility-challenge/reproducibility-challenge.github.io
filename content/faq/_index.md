@@ -14,6 +14,14 @@ toc: false
 
 This page consists of some frequently asked questions about the challenge.
 
+**Where is MLRC 2024?** As we described in our
+[announcement blog post](/blog/announcing_mlrc2025/), historically we have had
+one year backdated, as in MLRC 2023 actually happens in 2024, due to
+incorporating papers published in 2023. As we move on to be an in-person
+conference, to closer align with the format of ML conferences and also in favor
+of broadening our scope, we are therefore dropping the version 2024 and moving
+directly to MLRC 2025.
+
 **Is the submission double blind?** Yes, the paper should be double blind,
 according to
 [TMLR's submission policies](https://jmlr.org/tmlr/editorial-policies.html). You
