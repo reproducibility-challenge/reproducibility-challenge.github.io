@@ -1,4 +1,112 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ML Reproducibility Challenge | MLRC</title><link>https://example.com/</link><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><description>ML Reproducibility Challenge</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/logo_hu01e218cfd9d302fe44ebd3672696cf1d_8740_300x300_fit_lanczos_3.png</url><title>ML Reproducibility Challenge</title><link>https://example.com/</link></image><item><title>Announcing MLRC 2023</title><link>https://example.com/blog/announcing_mlrc2023/</link><pubDate>Wed, 18 Oct 2023 00:00:00 +0100</pubDate><guid>https://example.com/blog/announcing_mlrc2023/</guid><description>&lt;p>Every year since 2018, we have conducted the Machine Learning Reproducibility
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MLRC</title><link>https://example.com/</link><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><description>MLRC</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/logo_hu2dcfcb07216d770198d1c2e3d0ce095f_364849_300x300_fit_lanczos_3.png</url><title>MLRC</title><link>https://example.com/</link></image><item><title>Announcing MLRC 2025, our first in-person conference</title><link>https://example.com/blog/announcing_mlrc2025/</link><pubDate>Thu, 12 Dec 2024 00:00:00 +0100</pubDate><guid>https://example.com/blog/announcing_mlrc2025/</guid><description>&lt;p>We are excited to announce the 8th iteration of the Machine Learning
+Reproducibility Challenge, MLRC 2025, which will also be the first, in-person
+conference, hosted at Princeton University, New Jersey, USA on August 21st,
+2025!&lt;/p>
+&lt;p>The Machine Learning Reproducibility Challenge (MLRC) is an annual conference
+for reproducibility research in the Machine Learning community. MLRC has been
+running as an online conference for the last seven years
+(&lt;a href="https://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html" target="_blank" rel="noopener">v1&lt;/a>,
+&lt;a href="https://www.cs.mcgill.ca/~jpineau/ICLR2019-ReproducibilityChallenge.html" target="_blank" rel="noopener">v2&lt;/a>,
+&lt;a href="https://reproducibility-challenge.github.io/neurips2019/" target="_blank" rel="noopener">v3&lt;/a>,
+&lt;a href="https://reproducibility-challenge.github.io/neurips2019/" target="_blank" rel="noopener">v4&lt;/a>,
+&lt;a href="https://paperswithcode.com/rc2021" target="_blank" rel="noopener">v5&lt;/a>,
+&lt;a href="https://paperswithcode.com/rc2022" target="_blank" rel="noopener">v6&lt;/a>, &lt;a href="https://example.com/proceedings/mlrc2023/">v7&lt;/a>). This
+limits the incentives to submit to the conference, as online mode doesn’t offer
+the authors to showcase their work and network among researchers in the same
+domain. We have been systematically trying to address this issue by
+&lt;a href="https://example.com/blog/announcing_mlrc2023/">improving the submission and publication process&lt;/a>,
+and partnering with several conferences over the years, either by a workshop, or
+more recently through a
+&lt;a href="https://blog.neurips.cc/2022/08/15/journal-showcase/" target="_blank" rel="noopener">Journal-to-Conference&lt;/a>
+mode with NeurIPS for the last couple of iterations.&lt;/p>
+&lt;p>The success of the MLRC poster sessions at these conferences, and the recent
+success of &lt;a href="https://colmweb.org/index.html" target="_blank" rel="noopener">COLM&lt;/a>, motivated us to “graduate”
+MLRC into an in-person conference, starting this iteration. MLRC 2025 will be a
+one-day single track conference, with a mix of invited talks, oral
+presentations, and poster sessions. We hope the conference will provide the much
+needed avenue for discussing and disseminating reproducibility research and
+allow participants and attendees to network over a common goal of improving the
+science of Machine Learning through reproducible methods. We are excited to
+partner with Princeton University, specifically the
+&lt;a href="https://ai.princeton.edu/ai-lab" target="_blank" rel="noopener">Princeton AI Lab&lt;/a> for providing us the venue,
+and to &lt;a href="https://ai.meta.com/research/" target="_blank" rel="noopener">Meta&lt;/a> for providing us the funds to
+conduct such in-person conference.&lt;/p>
+&lt;p>As for the nomenclature of the conference, historically we have had one year
+backdated, as in MLRC 2023 actually happens in 2024, due to incorporating papers
+published in 2023. As we move on to be an in-person conference, to closer align
+with the format of ML conferences and also in favor of broadening our scope, we
+are therefore dropping the version 2024 and moving directly to MLRC 2025.&lt;/p>
+&lt;p>We therefore announce the &lt;a href="https://example.com/call_for_papers/">call for papers&lt;/a> for MLRC 2025. We
+invite submissions which conduct novel, unpublished research of reproducibility
+of machine learning methods and literature, including but not limited to :&lt;/p>
+&lt;ul>
+&lt;li>Methods and tools to foster reproducibility research in Machine Learning&lt;/li>
+&lt;li>Generalisability of published claims: novel insights and results beyond what
+was presented in the original paper, from any paper (or set of papers)
+published in top ML conferences and journals.&lt;/li>
+&lt;li>Meta-reproducibility studies on a set of related papers.&lt;/li>
+&lt;li>Meta analysis on the state of reproducibility in various subfields in Machine
+Learning.&lt;/li>
+&lt;/ul>
+&lt;p>Submissions must be first accepted at &lt;a href="https://jmlr.org/tmlr/" target="_blank" rel="noopener">TMLR&lt;/a> to be
+considered in the MLRC 2025 Proceedings. Please read the
+&lt;a href="https://jmlr.org/tmlr/author-guide.html" target="_blank" rel="noopener">author guidelines&lt;/a> and
+&lt;a href="https://jmlr.org/tmlr/editorial-policies.html" target="_blank" rel="noopener">submission guidelines&lt;/a> from TMLR
+to get the submission format and to understand more about the reviewing process.
+Existing papers related to the scope (with reproducibility certification)
+already published at TMLR are also welcome for the consideration of the
+committee.&lt;/p>
+&lt;figure class="mlrc_dark" >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../../uploads/mlrc2025.drawio.svg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure class="mlrc_light" >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../../uploads/mlrc2025.light.drawio.svg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>While TMLR aims to follow a 2-months timeline to complete the review process of
+its regular submissions, this timeline is not guaranteed. If you haven’t
+already, we therefore recommend submitting your original paper to TMLR by
+February 21st, 2025. We aim to announce the accepted papers by June 27th. We
+have set a cutoff deadline for accepting TMLR decisions one week prior to the
+announcement deadline, allowing ample time for you to ensure your paper has
+received the decision at TMLR, and update our forms accordingly. For logistical
+purposes, this date will be a hard deadline, and unfortunately we would not be
+able to accommodate any late decisions from TMLR post this date. Therefore, we
+encourage you to submit early to TMLR, and contact the TMLR Action Editors well
+in advance if your paper hasn’t been reviewed or is pending decisions. If you
+miss the cutoff deadline, we encourage you to still go through the TMLR review
+cycle, as then your paper once published will be eligible for the next year&amp;rsquo;s
+iteration (MLRC 2026). If you already have a relevant published TMLR paper which
+has not been showcased at MLRC 2023, you can directly submit it now to our
+system for consideration for MLRC 2025.&lt;/p>
+&lt;h2 id="important-dates">Important dates&lt;/h2>
+&lt;ul>
+&lt;li>Submit to TMLR OpenReview: &lt;a href="https://openreview.net/group?id=TMLR" target="_blank" rel="noopener">https://openreview.net/group?id=TMLR&lt;/a>&lt;/li>
+&lt;li>Deadline to share your intent to submit a TMLR paper to MLRC: &lt;strong>February 21st,
+2025&lt;/strong> at the following form: &lt;a href="https://forms.gle/REgwJQBP8ZXQEaJk7" target="_blank" rel="noopener">https://forms.gle/REgwJQBP8ZXQEaJk7&lt;/a>&lt;/li>
+&lt;li>This form requires that you provide a link to your TMLR submission. Once it
+gets accepted (if it isn’t already), you should then update the same form with
+your paper camera ready details.&lt;/li>
+&lt;li>Cutoff deadline for TMLR decisions: &lt;strong>June 20th, 2025&lt;/strong>&lt;/li>
+&lt;li>Deadline for announcing accepted papers: &lt;strong>June 27th, 2025&lt;/strong>&lt;/li>
+&lt;li>Conference day: &lt;strong>August 21st, 2025&lt;/strong> at Princeton University, NJ, USA&lt;/li>
+&lt;/ul>
+&lt;p>In the following months, we will share more updates about the conference
+session, invited talks, program and registration. We are excited that this will
+be a first, in-person conference specifically focused on reproducibility in
+machine learning research, which will foster the research and discussion on
+reproducible methods, analysis, insights and further strengthen and promote the
+scientific understanding of Machine Learning.&lt;/p>
+&lt;p>We are looking for co-organizers and volunteers! If you wish to help us in
+organizing this in-person conference, or would like to nominate organizers /
+volunteers, please
+&lt;a href="https://forms.gle/w8MtswWEbBWQVZbEA" target="_blank" rel="noopener">submit the following form&lt;/a>. You can also
+contact us at &lt;a href="mailto:mlrc-2025@googlegroups.com">mlrc-2025@googlegroups.com&lt;/a> or
+&lt;a href="mailto:reproducibility.challenge@gmail.com">reproducibility.challenge@gmail.com&lt;/a> if you have any feedback / suggestions.&lt;/p>
+&lt;p>Looking forward to a successful conference next year!&lt;/p>
+&lt;p>Koustuv Sinha, General Chair&lt;/p>
+&lt;p>&lt;em>on behalf of the MLRC 2025 Organizers&lt;/em>&lt;/p></description></item><item><title>Announcing MLRC 2023</title><link>https://example.com/blog/announcing_mlrc2023/</link><pubDate>Wed, 18 Oct 2023 00:00:00 +0100</pubDate><guid>https://example.com/blog/announcing_mlrc2023/</guid><description>&lt;p>Every year since 2018, we have conducted the Machine Learning Reproducibility
 Challenge (see previous years
 &lt;a href="https://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html" target="_blank" rel="noopener">v1&lt;/a>,
 &lt;a href="https://www.cs.mcgill.ca/~jpineau/ICLR2019-ReproducibilityChallenge.html" target="_blank" rel="noopener">v2&lt;/a>,
@@ -191,11 +299,11 @@ the top conferences and journals (NeurIPS, ICML, ICLR, ACL, EMNLP, ECCV, CVPR,
 TMLR, JMLR, TACL) to run your reproducibility study on.&lt;/p>
 &lt;figure class="mlrc_dark" >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../../uploads/mlrc.drawio.svg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="../../uploads/mlrc2023.drawio.svg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure class="mlrc_light" >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../../uploads/mlrc.light.drawio.svg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="../../uploads/mlrc2023.light.drawio.svg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;p>In order for your paper to be submitted and presented at MLRC 2023, it first
 needs to be &lt;strong>accepted and published&lt;/strong> at TMLR. While TMLR aims to follow a
