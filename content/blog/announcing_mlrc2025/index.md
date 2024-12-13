@@ -41,10 +41,10 @@ presentations, and poster sessions. We hope the conference will provide the much
 needed avenue for discussing and disseminating reproducibility research and
 allow participants and attendees to network over a common goal of improving the
 science of Machine Learning through reproducible methods. We are excited to
-partner with Princeton University, specifically the
-[Princeton AI Lab](https://ai.princeton.edu/ai-lab) for providing us the venue,
-and to [Meta](https://ai.meta.com/research/) for providing us the funds to
-conduct such in-person conference.
+partner with Princeton University, and thank
+[Princeton AI Lab](https://ai.princeton.edu/ai-lab) &
+[Aravind Narayanan](https://www.cs.princeton.edu/~arvindn/) for facilitating the
+venue.
 
 As for the nomenclature of the conference, historically we have had one year
 backdated, as in MLRC 2023 actually happens in 2024, due to incorporating papers
