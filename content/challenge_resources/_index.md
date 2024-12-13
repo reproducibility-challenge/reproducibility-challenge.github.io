@@ -7,7 +7,7 @@ icon_pack: fas
 
 # Page metadata.
 title: Resources
-date: "2023-10-22T00:00:00Z"
+date: "2024-12-12T00:00:00Z"
 type: book # Do not modify.
 ---
 
@@ -34,8 +34,6 @@ Code submission are mandatory for all submitted papers. We recommend that you:
   backed Jupyter Notebooks
 - Instructors can apply for
   [Google Cloud credits](https://cloud.google.com/edu/) for their students.
-- If you are a company that can offer cloud computing credits, please contact
-  [reproducibility.challenge@gmail.com](reproducibility.challenge@gmail.com)
 
 ## Suggested Readings
 

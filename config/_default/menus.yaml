@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Submission Form
-    url: https://forms.gle/JJ28rLwBSxMriyE89
+    url: https://forms.gle/REgwJQBP8ZXQEaJk7
     weight: 20
   - name: Past Iterations
     identifier: past

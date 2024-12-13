@@ -1,19 +1,15 @@
 ---
 # Title, summary, and page position.
-linktitle: Organizers
-weight: 100
+linktitle: Advisory Board 
+weight: 700
 icon: task-square-svgrepo-com
 icon_pack: fas
 
 # Page metadata.
-title: Organizers
-date: "2023-10-22T00:00:00Z"
+title: Advisory Board 
+date: "2024-12-12T00:00:00Z"
 type: book # Do not modify.
 ---
-
-## Program Chair
-
-- [Koustuv Sinha](https://koustuvsinha.com/), _Meta (FAIR)_
 
 ## Reproducible ML Advisory Board
 
@@ -28,11 +24,3 @@ type: book # Do not modify.
 - [Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/), _Princeton
   University_
 - [Jesse Dodge](https://jessedodge.github.io/), _Allen Institute for AI_
-
-<!-- ## Acknowledgements -->
-<!---->
-<!-- - Reviewers -->
-<!-- - Organizers -->
-<!-- - PapersWithCode -->
-<!-- - Kaggle -->
-<!-- - OpenReview -->

@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Online Proceedings
-weight: 60
+weight: 40
 icon: faq-file-svgrepo-com
 icon_pack: fas
 

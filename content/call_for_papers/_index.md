@@ -7,70 +7,71 @@ icon_pack: fas
 
 # Page metadata.
 title: Call for Papers
-date: "2024-12-10T00:00:00Z"
+date: "2024-12-12T00:00:00Z"
 type: book # Do not modify.
 ---
 
-Call for papers announcement coming soon!
+<!-- Call for papers announcement coming soon! -->
 
-<!-- The Machine Learning Reproducibility Challenge (MLRC 2023) is an unique, online -->
-<!-- conference which encourages the community to investigate the reproducibility, -->
-<!-- replicability and generalisability of published claims in top conferences in the -->
-<!-- literature. We invite submissions which investigate the recently published -->
-<!-- claims, add novel insights to them, and enable reproducible research, spanning -->
-<!-- various topics in the ML literature. Submissions must be first accepted at -->
-<!-- [TMLR](https://jmlr.org/tmlr/) to be considered in the MLRC 2023 Proceedings. -->
-<!-- Please read the [author guidelines](https://jmlr.org/tmlr/author-guide.html) and -->
-<!-- [submission guidelines](https://jmlr.org/tmlr/editorial-policies.html) from TMLR -->
-<!-- to get the submission format and to understand more about the reviewing process. -->
-<!-- Please read our [announcement blog post](/blog/announcing_mlrc2023/) for more -->
-<!-- motivation, retrospectives and roadmap for the challenge. -->
-<!---->
-<!-- ## Scope -->
-<!---->
-<!-- We invite thorough reproducibility studies, including but not limited to: -->
-<!---->
-<!-- - _Generalisability_ of published claims: novel insights and results beyond what -->
-<!--   was presented in the original paper. We recommend you choose any paper(s) -->
-<!--   published in the 2023 calendar year from the top conferences and journals -->
-<!--   ([NeurIPS](https://neurips.cc/), [ICML](https://icml.cc/), -->
-<!--   [ICLR](https://iclr.cc/), [ACL](https://2023.aclweb.org/), -->
-<!--   [EMNLP](https://2023.emnlp.org/), [ICCV](https://iccv2023.thecvf.com/), -->
-<!--   [CVPR](https://cvpr2023.thecvf.com/Conferences/2023), -->
-<!--   [TMLR](https://jmlr.org/tmlr/), [JMLR](https://jmlr.org/), -->
-<!--   [TACL](https://transacl.org/index.php/tacl)) to run your reproducibility study -->
-<!--   on. -->
-<!-- - Meta-reproducibility studies on set of related papers. -->
-<!-- - Research on tools enabling reproducible research. -->
-<!-- - Meta analysis on the state of reproducibility in various subfields in Machine -->
-<!--   Learning. -->
-<!---->
-<!-- ## Important Dates -->
-<!---->
-<!-- - Challenge goes live: October 23, 2023 -->
-<!-- - Submit to TMLR OpenReview: https://openreview.net/group?id=TMLR -->
-<!-- - Deadline to share your **intent to submit** a TMLR paper to MLRC: **February -->
-<!--   16th, 2024** at the following form: **https://forms.gle/JJ28rLwBSxMriyE89**. -->
-<!--   This form requires that you provide a link to your TMLR submission. Once it -->
-<!--   gets accepted (if it isn’t already), you should then update the same form with -->
-<!--   your paper camera ready details. -->
-<!-- - We aim to announce the accepted papers by **May 31st, 2024**, pending -->
-<!--   decisions of all papers. -->
-<!---->
-<!-- ## Camera Ready Process -->
-<!---->
-<!-- - After you have updated the form with your accepted TMLR paper, it will finally -->
-<!--   undergo a light AC review to verify MLRC compatibility. -->
-<!-- - We will publish a proceedings booklet post announcement of all decisions. -->
-<!-- - Accepted papers will be featured in our website along with 5-min companion -->
-<!--   videos. -->
-<!---->
-<!-- For query regarding MLRC 2023, contact us at -->
-<!-- [mlrc-2023@googlegroups.com](mailto:mlrc-2023@googlegroups.com). -->
-<!---->
-<!-- Koustuv Sinha -->
-<!---->
-<!-- Program Chair, MLRC 2023 -->
+The Machine Learning Reproducibility Challenge (MLRC 2025) encourages the
+community to investigate the reproducibility, replicability and generalisability
+of published claims in top conferences in the literature.
+
+Submissions must be first accepted at [TMLR](https://jmlr.org/tmlr/) to be
+considered in the MLRC 2025 Proceedings. Please read the
+[author guidelines](https://jmlr.org/tmlr/author-guide.html) and
+[submission guidelines](https://jmlr.org/tmlr/editorial-policies.html) from TMLR
+to get the submission format and to understand more about the reviewing process.
+Existing papers related to the scope (with reproducibility certification)
+already published at TMLR are also welcome for the consideration of the
+committee. Please read our [announcement blog post](/blog/announcing_mlrc2025/)
+for more information.
+
+{{< figure src="../../uploads/mlrc2025.drawio.svg" class="mlrc_dark" >}}
+
+{{< figure src="../../uploads/mlrc2025.light.drawio.svg" class="mlrc_light" >}}
+
+## Scope
+
+We invite submissions which conduct novel, unpublished research of
+reproducibility of machine learning methods and literature, including but not
+limited to :
+
+- Methods and tools to foster reproducibility research in Machine Learning
+- Generalisability of published claims: novel insights and results beyond what
+  was presented in the original paper, from any paper (or set of papers)
+  published in top ML conferences and journals.
+- Meta-reproducibility studies on a set of related papers.
+- Meta analysis on the state of reproducibility in various subfields in Machine
+  Learning.
+
+## Important Dates
+
+- Submit to TMLR OpenReview: https://openreview.net/group?id=TMLR
+- Deadline to share your intent to submit a TMLR paper to MLRC: **February 21st,
+  2025** at the following form: https://forms.gle/REgwJQBP8ZXQEaJk7
+- This form requires that you provide a link to your TMLR submission. Once it
+  gets accepted (if it isn’t already), you should then update the same form with
+  your paper camera ready details.
+- Cutoff deadline for TMLR decisions: **June 20th, 2025**
+- Deadline for announcing accepted papers: **June 27th, 2025**
+- Conference day: **August 21st, 2025** at Princeton University, NJ, USA
+
+## Camera Ready Process
+
+- After you have updated the form with your accepted TMLR paper, it will finally
+  undergo a light AC review to verify MLRC compatibility.
+- AC review will determine the submissions eligible for talks and posters, which
+  will be communicated alongside the acceptance decision.
+- Post acceptance, we will reach out to you for logistics of submitting your
+  videos and posters for the conference.
+
+For query regarding MLRC 2025, contact us at
+[mlrc-2025@googlegroups.com](mailto:mlrc-2025@googlegroups.com).
+
+Koustuv Sinha
+
+General Chair, MLRC 2025
 
 <!-- ## Task Scope
 
