@@ -43,7 +43,7 @@ allow participants and attendees to network over a common goal of improving the
 science of Machine Learning through reproducible methods. We are excited to
 partner with Princeton University, and thank
 [Princeton AI Lab](https://ai.princeton.edu/ai-lab) &
-[Aravind Narayanan](https://www.cs.princeton.edu/~arvindn/) for facilitating the
+[Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/) for facilitating the
 venue.
 
 As for the nomenclature of the conference, historically we have had one year
