@@ -32,20 +32,17 @@ results.
 {{% callout note %}}
 
 - :bell: MLRC 2025 [Call for Papers](/call_for_papers) is out! Checkout our
-  [announcement](/blog/announcing_mlrc2025) blog post.
-- :mortar_board: [MLRC 2023](/proceedings/mlrc2023/) papers featured in
-  [NeurIPS 2024 Poster Sessions](https://neurips.cc/), Dec 10-15, 2024 at
-  Vancouver, Canada. If you are attending NeurIPS, do
-  [drop by to the posters](/proceedings/) to say hi!
-
-{{% /callout %}}
+  [announcement](/blog/announcing_mlrc2025) blog post. {{% /callout %}}
 
 ## Venue
 
-MLRC 2025 will be held _in-person_ as a one-day conference, at Princeton
-University, NJ, USA on August 21st, 2025. The conference will be single-track,
-with a mix of invited talks, oral presentations and poster sessions. Checkout
-our [announcement blog](/blog/announcing_mlrc2025/) for more details!
+We are happy to announce that the
+[Princeton Laboratory for Artificial Intelligence](https://ai.princeton.edu/ai-la)
+is hosting MLRC 2025, which will be held _in-person_ as a one-day conference, at
+Princeton University, NJ, USA on August 21st, 2025. The conference will be
+single-track, with a mix of invited talks, oral presentations and poster
+sessions. Checkout our [announcement blog](/blog/announcing_mlrc2025/) for more
+details!
 
 ## Important Dates
 
@@ -59,7 +56,11 @@ our [announcement blog](/blog/announcing_mlrc2025/) for more details!
 - Deadline for announcing accepted papers: **June 27th, 2025**
 - Conference day: **August 21st, 2025** at Princeton University, NJ, USA
 
-## Organizers
+## Organizer
+
+- [The Princeton Laboratory for Artificial Intelligence](https://ai.princeton.edu/ai-lab)
+
+### Co-Organizers
 
 #### General Chair
 
@@ -82,8 +83,6 @@ our [announcement blog](/blog/announcing_mlrc2025/) for more details!
   University, Senior Local Chair
 - [Peter Henderson](https://www.peterhenderson.co/), Princeton University, Local
   Chair
-- Remi Moss, Executive Director, [Princeton AI Lab](https://ai.princeton.edu/)
-- Ellen DiPippo, Program Manager, [Princeton AI Lab](https://ai.princeton.edu/)
 
 #### Senior Program Chair
 
@@ -93,7 +92,8 @@ our [announcement blog](/blog/announcing_mlrc2025/) for more details!
 ## Contact
 
 - For queries related to the conference, please contact us at
-  [mlrc-2025@googlegroups.com](mailto:mlrc-2025@googlegroups.com) or
+  [ailab@princeton.edu](mailto:ailab@princeton.edu) and
+  [mlrc-2025@googlegroups.com](mailto:mlrc-2025@googlegroups.com) o
   [reproducibility.challenge@gmail.com](mailto:reproducibility.challenge@gmail.com)
 - Follow us on Social media for updates: Twitter
   ([@repro_challenge](https://x.com/repro_challenge)), BlueSky

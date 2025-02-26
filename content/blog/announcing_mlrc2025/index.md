@@ -11,9 +11,10 @@ weight: 1
 ---
 
 We are excited to announce the 8th iteration of the Machine Learning
-Reproducibility Challenge, MLRC 2025, which will also be the first, in-person
-conference, hosted at Princeton University, New Jersey, USA on August 21st,
-2025!
+Reproducibility Challenge, MLRC 2025, organized by
+[Princeton Laboratory for Artificial Intelligence](https://ai.princeton.edu/ai-la),
+which will also be the first, in-person conference, hosted at Princeton
+University, New Jersey, USA on August 21st, 2025!
 
 The Machine Learning Reproducibility Challenge (MLRC) is an annual conference
 for reproducibility research in the Machine Learning community. MLRC has been

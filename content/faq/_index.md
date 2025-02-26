@@ -49,11 +49,6 @@ your decisions by the cutoff date. If your Action Editor is unresponsive, you
 should reach out to the TMLR
 [Editors-In-Chiefs](https://jmlr.org/tmlr/editorial-board.html).
 
-**Can I get travel grant to attend the conference?** We have very limited budget
-for travel grant, which is not guranteed and can only be provided on a
-case-by-case basis. We strongly recommend to reaching out to your
-supervisor/company for help regarding travel.
-
 **Can I get invitation letter for US Visa?** Yes, please reach out to us at
 [mlrc-2025@googlegroups.com](mailto:mlrc-2025@googlegroups.com) with a proof of
 your registration and we will provide it to you.
