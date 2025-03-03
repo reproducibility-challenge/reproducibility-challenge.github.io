@@ -37,8 +37,8 @@ results.
 ## Venue
 
 We are happy to announce that the
-[Princeton Laboratory for Artificial Intelligence](https://ai.princeton.edu/ai-la)
-is hosting MLRC 2025, which will be held _in-person_ as a one-day conference, at
+[Princeton Laboratory for Artificial Intelligence](https://ai.princeton.edu/ai-lab)
+is hosting MLRC 2025, which will be held _in-person_ as a one-day conference, a
 Princeton University, NJ, USA on August 21st, 2025. The conference will be
 single-track, with a mix of invited talks, oral presentations and poster
 sessions. Checkout our [announcement blog](/blog/announcing_mlrc2025/) for more
