@@ -98,3 +98,9 @@ details!
 - Follow us on Social media for updates: Twitter
   ([@repro_challenge](https://x.com/repro_challenge)), BlueSky
   ([@reproml.org](https://bsky.app/profile/reproml.org))
+
+<div class="row">
+<div class="col-md-6 footer_logo_plai">
+</div>
+</div>
+
