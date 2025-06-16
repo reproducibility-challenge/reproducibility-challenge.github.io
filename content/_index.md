@@ -37,7 +37,7 @@ results.
 ## Venue
 
 We are happy to announce that the
-[Princeton Laboratory for Artificial Intelligence](https://ai.princeton.edu/ai-lab)
+[Princeton Laboratory for Artificial Intelligence](https://ai.princeton.edu/events/2025/ml-reproducibility-challenge)
 is hosting MLRC 2025, which will be held _in-person_ as a one-day conference, a
 Princeton University, NJ, USA on August 21st, 2025. The conference will be
 single-track, with a mix of invited talks, oral presentations and poster
@@ -55,6 +55,14 @@ details!
 - Cutoff deadline for receiving TMLR decisions: **June 20th, 2025**
 - Deadline for announcing accepted papers: **June 27th, 2025**
 - Conference day: **August 21st, 2025** at Princeton University, NJ, USA
+
+## Keynote Speakers
+
+- [Arvind Narayan](https://www.cs.princeton.edu/~arvindn/), Professor of Computer Science at Princeton University & Director of the Center for Information Technology Policy
+- [Soumith Chintala](https://soumith.ch/), Founder of Pytorch, Research Engineering Lead at Meta
+- [Jonathan Frankle](http://www.jfrankle.com/), Chief AI Scientist at Databricks
+- [Jesse Dodge](https://jessedodge.github.io/), Senior Research Scientist, Allen Institute for AI
+- [Stella Biderman](https://scholar.google.com/citations?user=bO7H0DAAAAAJ&hl=en), Executive Director, Eleuther AI
 
 ## Organizer
 
