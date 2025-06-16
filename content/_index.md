@@ -32,7 +32,10 @@ results.
 {{% callout note %}}
 
 - :bell: MLRC 2025 [Call for Papers](/call_for_papers) is out! Checkout our
-  [announcement](/blog/announcing_mlrc2025) blog post. {{% /callout %}}
+  [announcement](/blog/announcing_mlrc2025) blog post.
+- :bell: Registration for MLRC 2025 In-Person [event is now live](https://www.eventbrite.com/e/machine-learning-reproducibility-challenge-tickets-1272545480789?aff=oddtdtcreator)!
+
+{{% /callout %}}
 
 ## Venue
 
