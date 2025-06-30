@@ -47,6 +47,29 @@ single-track, with a mix of invited talks, oral presentations and poster
 sessions. Checkout our [announcement blog](/blog/announcing_mlrc2025/) for more
 details!
 
+## Accepted Papers
+
+We are now happy to announce the list of accepted papers at MLRC 2025 - congratulations to all authors! We will notify you shortly on the camera ready instructions.
+
+- _[Do not trust what you trust: Miscalibration in Semisupervised Learning, Shambhavi Mishra, Balamurali Murugesan](https://openreview.net/forum?id=1WqLLYgBNt)_, Ismail Ben Ayed, Marco Pedersoli, Jose Dolz
+- _[Multivariate Dense Retrieval: A Reproducibility Study under a Memory-limited Setup](https://openreview.net/forum?id=wF3ZtSlOcT)_, Georgios Sidiropoulos, Samarth Bhargav, Panagiotis Eustratiadis, Evangelos Kanoulas
+- _[Improving Interpretation Faithfulness for Vision Transformers](https://openreview.net/forum?id=Z0DhgU8fBt)_, Izabela Kurek, Wojciech Trejter, Stipe Frkovic, Andro Erdelez
+- _[Reassessing Fairness: A Reproducibility Study of NIFA’s Impact on GNN Models](https://openreview.net/forum?id=l5fXUKi8GO)_, Ruben Figge, Sjoerd Gunneweg,  Aaron Kuin, Mees Lindeman
+- _[A reproducibility study of “User-item fairness tradeoffs in recommendations”](https://openreview.net/forum?id=vltzxxhzLU)_, Sander Honig, Elyanne Oey, Lisanne Wallaard, Sharanda Suttorp, Clara Rus
+- _[Reproducibility study of: "Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals"](https://openreview.net/forum?id=VCG6j3tcAA&)_, Tijs Wiegman, Leyla Perotti, Viktória Pravdová, Ori Brand, Maria Heuss
+- _[On the Generalizability of "Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals"](https://openreview.net/forum?id=15keyzQj9h)_, Asen Dotsinski, Udit Thakur, Marko Ivanov, Mohammad Hafeez Khan, Maria Heuss
+- _[Revisiting CroPA: A Reproducibility Study and Enhancements for Cross-Prompt Adversarial Transferability in Vision-Language Models](https://openreview.net/forum?id=5L90cl0xtf)_, Atharv Mittal, Agam Pandey, Amritanshu Tiwari, Sukrit Jindal, Swadesh Swain
+- _[Reproducibility Study of "Cooperation, Competition, and Maliciousness: LLM-Stakeholders Interactive Negotiation"](https://openreview.net/forum?id=MTrhFmkC45)_, Jose L. García, Karolína Hájková, Maria Marchenko, Carlos Miguel Patiño
+- _[Remembering to Be Fair Again: Reproducing Non-Markovian Fairness in Sequential Decision Making](https://openreview.net/forum?id=H6DtMcZf5s)_, Domonkos Nagy, Lohithsai Yadala Chanchu, Krystof Bobek, Xin Zhou, Jacobus Smit
+- _[Reproducibility Study of ’SLICE: Stabilized LIME for Consistent Explanations for Image Classification’](https://openreview.net/forum?id=vKUPXuEzj8)_, Aritra Bandyopadhyay, Chiranjeev Bindra, Roan van Blanken, Arijit Ghosh 
+- _[GNNBoundary: Finding Boundaries and Going Beyond Them](https://openreview.net/forum?id=kEUvWFHEsn)_, Jan Henrik Bertrand, Lukas Bierling, Ina Klaric, Aron Wezenberg
+- _[Revisiting Discover-then-Name Concept Bottleneck Models: A Reproducibility Study](https://openreview.net/forum?id=946cT3Jsq5)_, Freek Byrman, Emma Kasteleyn, Bart Kuipers, Daniel Uyterlinde
+- _[Benchmarking LLM Capabilities in Negotiation through Scoreable Games](https://openreview.net/forum?id=BVH81SAAh2)_, Jorge Carrasco Pollo, Ioannis Kapetangeorgis, Joshua Rosenthal, John Hua Yao
+- _[ModernTCN Revisited: A Critical Look at the Experimental Setup in General Time Series Analysis](https://openreview.net/forum?id=R20kKdWmVZ)_, Önder Akacik,Mark Hoogendoorn
+- _[Reproducibility Study of "Improving Interpretation Faithfulness For Vision Transformers"](https://openreview.net/forum?id=a0rytDAGUD)_, Meher Changlani, Benjamin Hucko, Aswin Krishna Mahadevan, Ioannis Kechagias
+
+We have sent you an RSVP for attendance and application for travel grant, please check your registered inbox!
+
 ## Important Dates
 
 - Submit to TMLR OpenReview: https://openreview.net/group?id=TMLR
