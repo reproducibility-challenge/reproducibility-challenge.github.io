@@ -123,11 +123,16 @@ We have sent you an RSVP for attendance and application for travel grant, please
 - [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/), Meta / Mila - Quebec AI /
   McGill University
 
+## Event Sponsors
+
+- [Meta AI](https://ai.meta.com/)
+- [OpenAI](https://openai.com/about/)
+
 ## Contact
 
-- For queries related to the conference, please contact us at
+- For queries related to the conference, or sponsorship requests, please contact us at
   [ailab@princeton.edu](mailto:ailab@princeton.edu) and
-  [mlrc-2025@googlegroups.com](mailto:mlrc-2025@googlegroups.com) o
+  [mlrc-2025@googlegroups.com](mailto:mlrc-2025@googlegroups.com) or
   [reproducibility.challenge@gmail.com](mailto:reproducibility.challenge@gmail.com)
 - Follow us on Social media for updates: Twitter
   ([@repro_challenge](https://x.com/repro_challenge)), BlueSky
