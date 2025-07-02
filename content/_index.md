@@ -31,6 +31,7 @@ results.
 
 {{% callout note %}}
 
+- :bell: Decisions for MLRC 2025 announced, congratulations to all accepted papers!
 - :bell: Registration for MLRC 2025 In-Person [event is now live](https://www.eventbrite.com/e/machine-learning-reproducibility-challenge-tickets-1272545480789?aff=oddtdtcreator)!
 - MLRC 2025 [Call for Papers](/call_for_papers) is out! Checkout our
   [announcement](/blog/announcing_mlrc2025) blog post.
@@ -73,13 +74,13 @@ We have sent you an RSVP for attendance and application for travel grant, please
 ## Important Dates
 
 - Submit to TMLR OpenReview: https://openreview.net/group?id=TMLR
-- Deadline to share your intent to submit a TMLR paper to MLRC: **February 21st,
+- Deadline to share your intent to submit a TMLR paper to MLRC: **~~February 21st~~,
   2025**
 - This form requires that you provide a link to your TMLR submission. Once it
   gets accepted (if it isn’t already), you should then update the same form with
   your paper camera ready details.
-- Cutoff deadline for receiving TMLR decisions: **June 20th, 2025**
-- Deadline for announcing accepted papers: **June 27th, 2025**
+- Cutoff deadline for receiving TMLR decisions: **~~June 20th, 2025~~**
+- Deadline for announcing accepted papers: **~~June 27th, 2025~~**
 - Conference day: **August 21st, 2025** at Princeton University, NJ, USA
 
 ## Keynote Speakers

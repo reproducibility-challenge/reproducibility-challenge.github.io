@@ -48,13 +48,13 @@ limited to :
 ## Important Dates
 
 - Submit to TMLR OpenReview: https://openreview.net/group?id=TMLR
-- Deadline to share your intent to submit a TMLR paper to MLRC: **February 21st,
+- Deadline to share your intent to submit a TMLR paper to MLRC: **~~February 21st~~,
   2025**
 - This form requires that you provide a link to your TMLR submission. Once it
   gets accepted (if it isn’t already), you should then update the same form with
   your paper camera ready details.
-- Cutoff deadline for receiving TMLR decisions: **June 20th, 2025**
-- Deadline for announcing accepted papers: **June 27th, 2025**
+- Cutoff deadline for receiving TMLR decisions: **~~June 20th, 2025~~**
+- Deadline for announcing accepted papers: **~~June 27th, 2025~~**
 - Conference day: **August 21st, 2025** at Princeton University, NJ, USA
 
 ## Camera Ready Process
