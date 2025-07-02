@@ -74,8 +74,8 @@ We have sent you an RSVP for attendance and application for travel grant, please
 ## Important Dates
 
 - Submit to TMLR OpenReview: https://openreview.net/group?id=TMLR
-- Deadline to share your intent to submit a TMLR paper to MLRC: **~~February 21st~~,
-  2025**
+- Deadline to share your intent to submit a TMLR paper to MLRC: **~~February 21st,
+  2025~~**
 - This form requires that you provide a link to your TMLR submission. Once it
   gets accepted (if it isn’t already), you should then update the same form with
   your paper camera ready details.
