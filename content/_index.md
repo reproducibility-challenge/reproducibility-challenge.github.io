@@ -68,6 +68,7 @@ We are now happy to announce the list of accepted papers at MLRC 2025 - congratu
 - _[Benchmarking LLM Capabilities in Negotiation through Scoreable Games](https://openreview.net/forum?id=BVH81SAAh2)_, Jorge Carrasco Pollo, Ioannis Kapetangeorgis, Joshua Rosenthal, John Hua Yao
 - _[ModernTCN Revisited: A Critical Look at the Experimental Setup in General Time Series Analysis](https://openreview.net/forum?id=R20kKdWmVZ)_, Önder Akacik,Mark Hoogendoorn
 - _[Reproducibility Study of "Improving Interpretation Faithfulness For Vision Transformers"](https://openreview.net/forum?id=a0rytDAGUD)_, Meher Changlani, Benjamin Hucko, Aswin Krishna Mahadevan, Ioannis Kechagias
+- _[A Reproducibility Study of Decoupling Feature Extraction and Classification Layers for Calibrated Neural Networks](https://openreview.net/forum?id=5Hwzd48ILf)_, Eric Banzuzi, Johanna D'ciofalo Khodaverdian, Katharina Deckenbach
 
 We have sent you an RSVP for attendance and application for travel grant, please check your registered inbox!
 
