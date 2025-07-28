@@ -91,6 +91,10 @@ We have sent you an RSVP for attendance and application for travel grant, please
 - [Jonathan Frankle](http://www.jfrankle.com/), Chief AI Scientist at Databricks
 - [Stella Biderman](https://scholar.google.com/citations?user=bO7H0DAAAAAJ&hl=en), Executive Director, Eleuther AI
 
+## Panel Moderator
+
+- [Sayash Kapoor](https://www.cs.princeton.edu/~sayashk/)
+
 ## Organizer
 
 - [The Princeton Laboratory for Artificial Intelligence](https://ai.princeton.edu/ai-lab)
