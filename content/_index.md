@@ -93,7 +93,7 @@ We have sent you an RSVP for attendance and application for travel grant, please
 
 ## Panel Moderator
 
-- [Sayash Kapoor](https://www.cs.princeton.edu/~sayashk/)
+- [Sayash Kapoor](https://www.cs.princeton.edu/~sayashk/), Princeton University
 
 ## Organizer
 
