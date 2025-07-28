@@ -89,7 +89,6 @@ We have sent you an RSVP for attendance and application for travel grant, please
 - [Arvind Narayan](https://www.cs.princeton.edu/~arvindn/), Professor of Computer Science at Princeton University & Director of the Center for Information Technology Policy
 - [Soumith Chintala](https://soumith.ch/), Founder of Pytorch, Research Engineering Lead at Meta
 - [Jonathan Frankle](http://www.jfrankle.com/), Chief AI Scientist at Databricks
-- [Jesse Dodge](https://jessedodge.github.io/), Senior Research Scientist, Allen Institute for AI
 - [Stella Biderman](https://scholar.google.com/citations?user=bO7H0DAAAAAJ&hl=en), Executive Director, Eleuther AI
 
 ## Organizer
