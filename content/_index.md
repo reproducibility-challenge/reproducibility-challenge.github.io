@@ -54,7 +54,7 @@ details!
 The conference will be held at [Friend Center](https://classroominfo.princeton.edu/View.aspx?bl_id=0616&fl_id=01&rm_id=0616_01_DDD7&bc=FRIEN&img=0616101.JPG&rn=101), William Street Room 101 Princeton, NJ 08540. The tentative agenda is provided here. Please [register](https://www.eventbrite.com/e/machine-learning-reproducibility-challenge-tickets-1272545480789?aff=oddtdtcreator) to attend the conference.
 
 - 9:30am-9.45am - Opening remarks
-- 9.45am - 10:30am - Keynote talk by [Arvind Narayan](https://www.cs.princeton.edu/~arvindn/), Princeton University
+- 9.45am - 10:30am - Keynote talk by [Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/), Princeton University
 - 10:30am-11:15am - Keynote talk by [Soumith Chintala](https://soumith.ch/), Pytorch @ Meta
 - 11:15-11.30am - Coffee Break
 - 11:30am - 12:00pm - Lightning talks from Industry and Academia
@@ -85,7 +85,7 @@ We are now happy to announce the list of [accepted papers at MLRC 2025](/proceed
 
 ## Keynote Speakers
 
-- [Arvind Narayan](https://www.cs.princeton.edu/~arvindn/), Professor of Computer Science at Princeton University & Director of the Center for Information Technology Policy
+- [Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/), Professor of Computer Science at Princeton University & Director of the Center for Information Technology Policy
 - [Soumith Chintala](https://soumith.ch/), Founder of Pytorch, Research Engineering Lead at Meta
 - [Jonathan Frankle](http://www.jfrankle.com/), Chief AI Scientist at Databricks
 - [Stella Biderman](https://scholar.google.com/citations?user=bO7H0DAAAAAJ&hl=en), Executive Director, Eleuther AI
