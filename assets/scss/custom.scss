@@ -21,6 +21,21 @@ body:not(.dark) .mlrc_dark {
   margin-bottom: 2em;
 }
 
+.flyer {
+  background: url("../uploads/mlrc_2025_flyer.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  /* adjust as needed */
+  height: 10em;
+  /* adjust as needed */
+  padding-top: 2em;
+  padding-bottom: 2em;
+  text-shadow: 1px 1px 2px black;
+  margin-bottom: 2em;
+}
+
 .footer_logo_plai {
   background: url("../uploads/plai_logo.svg");
   background-repeat: no-repeat;

@@ -12,6 +12,26 @@ type: book # Do not modify.
 toc: true
 ---
 
+##[2025]
+
+- [Do not trust what you trust: Miscalibration in Semisupervised Learning, Shambhavi Mishra, Balamurali Murugesan](https://openreview.net/forum?id=1WqLLYgBNt) _Ismail Ben Ayed, Marco Pedersoli, Jose Dolz_
+- [Multivariate Dense Retrieval: A Reproducibility Study under a Memory-limited Setup](https://openreview.net/forum?id=wF3ZtSlOcT) _Georgios Sidiropoulos, Samarth Bhargav, Panagiotis Eustratiadis, Evangelos Kanoulas_
+- [Improving Interpretation Faithfulness for Vision Transformers](https://openreview.net/forum?id=Z0DhgU8fBt) _Izabela Kurek, Wojciech Trejter, Stipe Frkovic, Andro Erdelez_
+- [Reassessing Fairness: A Reproducibility Study of NIFA’s Impact on GNN Models](https://openreview.net/forum?id=l5fXUKi8GO) _Ruben Figge, Sjoerd Gunneweg, Aaron Kuin, Mees Lindeman_
+- [A reproducibility study of “User-item fairness tradeoffs in recommendations”](https://openreview.net/forum?id=vltzxxhzLU) _Sander Honig, Elyanne Oey, Lisanne Wallaard, Sharanda Suttorp, Clara Rus_
+- [Reproducibility study of: "Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals"](https://openreview.net/forum?id=VCG6j3tcAA&) _Tijs Wiegman, Leyla Perotti, Viktória Pravdová, Ori Brand, Maria Heuss_
+- [On the Generalizability of "Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals"](https://openreview.net/forum?id=15keyzQj9h) _Asen Dotsinski, Udit Thakur, Marko Ivanov, Mohammad Hafeez Khan, Maria Heuss_
+- [Revisiting CroPA: A Reproducibility Study and Enhancements for Cross-Prompt Adversarial Transferability in Vision-Language Models](https://openreview.net/forum?id=5L90cl0xtf) _Atharv Mittal, Agam Pandey, Amritanshu Tiwari, Sukrit Jindal, Swadesh Swain_
+- [Reproducibility Study of "Cooperation, Competition, and Maliciousness: LLM-Stakeholders Interactive Negotiation"](https://openreview.net/forum?id=MTrhFmkC45) _Jose L. García, Karolína Hájková, Maria Marchenko, Carlos Miguel Patiño_
+- [Remembering to Be Fair Again: Reproducing Non-Markovian Fairness in Sequential Decision Making](https://openreview.net/forum?id=H6DtMcZf5s) _Domonkos Nagy, Lohithsai Yadala Chanchu, Krystof Bobek, Xin Zhou, Jacobus Smit_
+- [Reproducibility Study of ’SLICE: Stabilized LIME for Consistent Explanations for Image Classification’](https://openreview.net/forum?id=vKUPXuEzj8) _Aritra Bandyopadhyay, Chiranjeev Bindra, Roan van Blanken, Arijit Ghosh_
+- [GNNBoundary: Finding Boundaries and Going Beyond Them](https://openreview.net/forum?id=kEUvWFHEsn) _Jan Henrik Bertrand, Lukas Bierling, Ina Klaric, Aron Wezenberg_
+- [Revisiting Discover-then-Name Concept Bottleneck Models: A Reproducibility Study](https://openreview.net/forum?id=946cT3Jsq5) _Freek Byrman, Emma Kasteleyn, Bart Kuipers, Daniel Uyterlinde_
+- [Benchmarking LLM Capabilities in Negotiation through Scoreable Games](https://openreview.net/forum?id=BVH81SAAh2) _Jorge Carrasco Pollo, Ioannis Kapetangeorgis, Joshua Rosenthal, John Hua Yao_
+- [ModernTCN Revisited: A Critical Look at the Experimental Setup in General Time Series Analysis](https://openreview.net/forum?id=R20kKdWmVZ) _Önder Akacik,Mark Hoogendoorn_
+- [Reproducibility Study of "Improving Interpretation Faithfulness For Vision Transformers"](https://openreview.net/forum?id=a0rytDAGUD) _Meher Changlani, Benjamin Hucko, Aswin Krishna Mahadevan, Ioannis Kechagias_
+- [A Reproducibility Study of Decoupling Feature Extraction and Classification Layers for Calibrated Neural Networks](https://openreview.net/forum?id=5Hwzd48ILf) _Eric Banzuzi, Johanna D'ciofalo Khodaverdian, Katharina Deckenbach_
+
 ## [2023](/proceedings/mlrc2023/)
 
 :mortar_board: Poster :

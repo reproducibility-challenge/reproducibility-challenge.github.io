@@ -31,6 +31,7 @@ results.
 
 {{% callout note %}}
 
+- :bell: Join our [Discord Server](https://discord.gg/bDAK6WUCjU) to connect with fellow attendees, ask orgaziner questions, post questions for panel discussions and more!
 - :bell: Decisions for MLRC 2025 announced, congratulations to all accepted papers!
 - :bell: Registration for MLRC 2025 In-Person [event is now live](https://www.eventbrite.com/e/machine-learning-reproducibility-challenge-tickets-1272545480789?aff=oddtdtcreator)!
 - MLRC 2025 [Call for Papers](/call_for_papers) is out! Checkout our
@@ -48,29 +49,29 @@ single-track, with a mix of invited talks, oral presentations and poster
 sessions. Checkout our [announcement blog](/blog/announcing_mlrc2025/) for more
 details!
 
+## Agenda
+
+<div class="container flyer"></div>
+
+The conference will be held at [Friend Center](https://classroominfo.princeton.edu/View.aspx?bl_id=0616&fl_id=01&rm_id=0616_01_DDD7&bc=FRIEN&img=0616101.JPG&rn=101), William Street Room 101 Princeton, NJ 08540. The tentative agenda is provided here. Please [register](https://www.eventbrite.com/e/machine-learning-reproducibility-challenge-tickets-1272545480789?aff=oddtdtcreator) to attend the conference.
+
+- 9:30am-9.45am - Opening remarks
+- 9.45am - 10:30am - Keynote talk by [Arvind Narayan](https://www.cs.princeton.edu/~arvindn/), Princeton University
+- 10:30am-11:15am - Keynote talk by [Soumith Chintala](https://soumith.ch/), Pytorch @ Meta
+- 11:15-11.30am - Coffee Break
+- 11:30am - 12:00pm - Lightning talks from Industry and Academia
+- Lunch Break : 12.00PM
+- 1:00pm-1:45pm - Keynote talk by [Stella Biderman](https://scholar.google.com/citations?user=bO7H0DAAAAAJ&hl=en), Executive Director, Eleuther AI
+- 1:45pm- 2:30pm - Keynote talk by [Jonathan Frankle](http://www.jfrankle.com/), Chief AI Scientist, Databricks
+- 2.30pm - 2.45pm - Coffee break
+- 2.45pm - 3.15pm - Oral Talks
+- 3:15pm - 4pm - Panel Discussion led by [Sayash Kapoor](https://www.cs.princeton.edu/~sayashk/) (Princeton University) - "_Reproducibility of and by language models_"
+- 4pm-4.15pm - Closing remarks
+- 4.15pm- 5pm - Poster presentations
+
 ## Accepted Papers
 
-We are now happy to announce the list of accepted papers at MLRC 2025 - congratulations to all authors! We will notify you shortly on the camera ready instructions.
-
-- _[Do not trust what you trust: Miscalibration in Semisupervised Learning, Shambhavi Mishra, Balamurali Murugesan](https://openreview.net/forum?id=1WqLLYgBNt)_, Ismail Ben Ayed, Marco Pedersoli, Jose Dolz
-- _[Multivariate Dense Retrieval: A Reproducibility Study under a Memory-limited Setup](https://openreview.net/forum?id=wF3ZtSlOcT)_, Georgios Sidiropoulos, Samarth Bhargav, Panagiotis Eustratiadis, Evangelos Kanoulas
-- _[Improving Interpretation Faithfulness for Vision Transformers](https://openreview.net/forum?id=Z0DhgU8fBt)_, Izabela Kurek, Wojciech Trejter, Stipe Frkovic, Andro Erdelez
-- _[Reassessing Fairness: A Reproducibility Study of NIFA’s Impact on GNN Models](https://openreview.net/forum?id=l5fXUKi8GO)_, Ruben Figge, Sjoerd Gunneweg, Aaron Kuin, Mees Lindeman
-- _[A reproducibility study of “User-item fairness tradeoffs in recommendations”](https://openreview.net/forum?id=vltzxxhzLU)_, Sander Honig, Elyanne Oey, Lisanne Wallaard, Sharanda Suttorp, Clara Rus
-- _[Reproducibility study of: "Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals"](https://openreview.net/forum?id=VCG6j3tcAA&)_, Tijs Wiegman, Leyla Perotti, Viktória Pravdová, Ori Brand, Maria Heuss
-- _[On the Generalizability of "Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals"](https://openreview.net/forum?id=15keyzQj9h)_, Asen Dotsinski, Udit Thakur, Marko Ivanov, Mohammad Hafeez Khan, Maria Heuss
-- _[Revisiting CroPA: A Reproducibility Study and Enhancements for Cross-Prompt Adversarial Transferability in Vision-Language Models](https://openreview.net/forum?id=5L90cl0xtf)_, Atharv Mittal, Agam Pandey, Amritanshu Tiwari, Sukrit Jindal, Swadesh Swain
-- _[Reproducibility Study of "Cooperation, Competition, and Maliciousness: LLM-Stakeholders Interactive Negotiation"](https://openreview.net/forum?id=MTrhFmkC45)_, Jose L. García, Karolína Hájková, Maria Marchenko, Carlos Miguel Patiño
-- _[Remembering to Be Fair Again: Reproducing Non-Markovian Fairness in Sequential Decision Making](https://openreview.net/forum?id=H6DtMcZf5s)_, Domonkos Nagy, Lohithsai Yadala Chanchu, Krystof Bobek, Xin Zhou, Jacobus Smit
-- _[Reproducibility Study of ’SLICE: Stabilized LIME for Consistent Explanations for Image Classification’](https://openreview.net/forum?id=vKUPXuEzj8)_, Aritra Bandyopadhyay, Chiranjeev Bindra, Roan van Blanken, Arijit Ghosh
-- _[GNNBoundary: Finding Boundaries and Going Beyond Them](https://openreview.net/forum?id=kEUvWFHEsn)_, Jan Henrik Bertrand, Lukas Bierling, Ina Klaric, Aron Wezenberg
-- _[Revisiting Discover-then-Name Concept Bottleneck Models: A Reproducibility Study](https://openreview.net/forum?id=946cT3Jsq5)_, Freek Byrman, Emma Kasteleyn, Bart Kuipers, Daniel Uyterlinde
-- _[Benchmarking LLM Capabilities in Negotiation through Scoreable Games](https://openreview.net/forum?id=BVH81SAAh2)_, Jorge Carrasco Pollo, Ioannis Kapetangeorgis, Joshua Rosenthal, John Hua Yao
-- _[ModernTCN Revisited: A Critical Look at the Experimental Setup in General Time Series Analysis](https://openreview.net/forum?id=R20kKdWmVZ)_, Önder Akacik,Mark Hoogendoorn
-- _[Reproducibility Study of "Improving Interpretation Faithfulness For Vision Transformers"](https://openreview.net/forum?id=a0rytDAGUD)_, Meher Changlani, Benjamin Hucko, Aswin Krishna Mahadevan, Ioannis Kechagias
-- _[A Reproducibility Study of Decoupling Feature Extraction and Classification Layers for Calibrated Neural Networks](https://openreview.net/forum?id=5Hwzd48ILf)_, Eric Banzuzi, Johanna D'ciofalo Khodaverdian, Katharina Deckenbach
-
-We have sent you an RSVP for attendance and application for travel grant, please check your registered inbox!
+We are now happy to announce the list of [accepted papers at MLRC 2025](/proceedings/) - congratulations to all authors!
 
 ## Important Dates
 
