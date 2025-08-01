@@ -12,7 +12,7 @@ type: book # Do not modify.
 toc: true
 ---
 
-##[2025]
+## 2025
 
 - [Do not trust what you trust: Miscalibration in Semisupervised Learning, Shambhavi Mishra, Balamurali Murugesan](https://openreview.net/forum?id=1WqLLYgBNt) _Ismail Ben Ayed, Marco Pedersoli, Jose Dolz_
 - [Multivariate Dense Retrieval: A Reproducibility Study under a Memory-limited Setup](https://openreview.net/forum?id=wF3ZtSlOcT) _Georgios Sidiropoulos, Samarth Bhargav, Panagiotis Eustratiadis, Evangelos Kanoulas_
