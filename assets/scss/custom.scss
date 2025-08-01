@@ -28,7 +28,8 @@ body:not(.dark) .mlrc_dark {
   background-size: cover;
   width: 100%;
   /* adjust as needed */
-  height: 10em;
+  height: 100%;
+  max-width: 100%;
   /* adjust as needed */
   padding-top: 2em;
   padding-bottom: 2em;
