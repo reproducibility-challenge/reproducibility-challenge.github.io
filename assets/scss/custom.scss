@@ -25,7 +25,7 @@ body:not(.dark) .mlrc_dark {
   background: url("../uploads/mlrc_2025_flyer.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+  background-size: contain;
   width: 100%;
   /* adjust as needed */
   height: 100%;
