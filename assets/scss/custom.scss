@@ -71,7 +71,7 @@ body:not(.dark) .mlrc_dark {
   background: url("../uploads/openai_logo.png");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: inherit;
+  background-size: contain;
   height: 3em;
   /* adjust as needed */
   padding-top: 1em;
