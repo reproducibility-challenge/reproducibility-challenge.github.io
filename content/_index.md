@@ -113,7 +113,7 @@ We are now happy to announce the list of [accepted papers at MLRC 2025](/proceed
 - [Jessica Forde](https://jzf2101.github.io/), Brown University
 - [Adina Williams](https://ai.meta.com/people/1396973444287406/adina-williams/),
   Meta
-- [Angela Fan](https://ai.meta.com/people/423869000175606/angela-fan/), Meta
+- [Angela Fan](https://scholar.google.com/citations?user=TLZR9zgAAAAJ&hl=en)
 - [Mike Rabbat](https://ai.meta.com/people/1148536089838617/michael-rabbat/),
   Meta
 - [Naila Murray](https://scholar.google.fr/citations?user=suSmYHoAAAAJ&hl=en),
@@ -128,7 +128,7 @@ We are now happy to announce the list of [accepted papers at MLRC 2025](/proceed
 
 #### Senior Program Chair
 
-- [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/), Meta / Mila - Quebec AI /
+- [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/), Mila - Quebec AI /
   McGill University
 
 ## Event Sponsors
