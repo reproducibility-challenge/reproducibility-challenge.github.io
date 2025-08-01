@@ -151,4 +151,5 @@ The Machine Learning Reproducibility Challenge Conference is hosted by Princeton
 <div class="row">
   <div class="col-md-6 footer_logo_plai"></div>
   <div class="col-md-3 footer_logo_meta"></div>
+  <div class="col-md-3 footer_logo_openai"></div>
 </div>

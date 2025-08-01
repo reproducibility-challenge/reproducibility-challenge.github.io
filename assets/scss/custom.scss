@@ -66,3 +66,18 @@ body:not(.dark) .mlrc_dark {
   margin-top: 5em;
   margin-bottom: 2em;
 }
+
+.footer_logo_openai {
+  background: url("../uploads/openai_logo.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: inherit;
+  height: 3em;
+  /* adjust as needed */
+  padding-top: 1em;
+  margin-left: 1em;
+  padding-bottom: 1em;
+  text-shadow: 1px 1px 2px black;
+  margin-top: 5em;
+  margin-bottom: 2em;
+}
