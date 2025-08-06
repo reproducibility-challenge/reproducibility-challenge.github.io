@@ -54,13 +54,13 @@ details!
 The conference will be held at [Friend Center](https://classroominfo.princeton.edu/View.aspx?bl_id=0616&fl_id=01&rm_id=0616_01_DDD7&bc=FRIEN&img=0616101.JPG&rn=101), William Street Room 101 Princeton, NJ 08540. The tentative agenda is provided here. Please [register](https://www.eventbrite.com/e/machine-learning-reproducibility-challenge-tickets-1272545480789?aff=oddtdtcreator) to attend the conference.
 
 - 9:30am-9.45am - Opening remarks
-- 9.45am - 10:30am - Keynote talk by [Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/), Princeton University
-- 10:30am-11:15am - Keynote talk by [Soumith Chintala](https://soumith.ch/), Pytorch @ Meta
+- 9.45am - 10:30am - Keynote talk by [Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/), Professor of Computer Science at Princeton University, Director of the Center for Information Technology Policy; _"The slowdown in scientific progress and the role of reproducibility"_
+- 10:30am-11:15am - Keynote talk by [Soumith Chintala](https://soumith.ch/), Pytorch @ Meta; _"Reproducibility Is a Heroic Act: Not Efficient, Not Legal, Not Credited"_
 - 11:15-11.30am - Coffee Break
 - 11:30am - 12:00pm - Lightning talks from Industry and Academia
 - Lunch Break : 12.00PM
-- 1:00pm-1:45pm - Keynote talk by [Stella Biderman](https://scholar.google.com/citations?user=bO7H0DAAAAAJ&hl=en), Executive Director, Eleuther AI
-- 1:45pm- 2:30pm - Keynote talk by [Jonathan Frankle](http://www.jfrankle.com/), Chief AI Scientist, Databricks
+- 1:00pm-1:45pm - Keynote talk by [Stella Biderman](https://scholar.google.com/citations?user=bO7H0DAAAAAJ&hl=en), Executive Director, Eleuther AI; _"Lessons from the Trenches on Reproducible Evaluations of Language Models"_
+- 1:45pm- 2:30pm - Keynote talk by [Jonathan Frankle](http://www.jfrankle.com/), Chief AI Scientist, Databricks; _"The Humble Prompt Engineer: Looking to 1968 for the future of AI"_
 - 2.30pm - 2.45pm - Coffee break
 - 2.45pm - 3.15pm - Oral Talks
 - 3:15pm - 4pm - Panel Discussion led by [Sayash Kapoor](https://www.cs.princeton.edu/~sayashk/) (Princeton University) - "_Reproducibility of and by language models_"
