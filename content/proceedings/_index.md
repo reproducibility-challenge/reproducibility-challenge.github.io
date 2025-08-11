@@ -14,7 +14,7 @@ toc: true
 
 ## 2025
 
-- [Do not trust what you trust: Miscalibration in Semisupervised Learning, Shambhavi Mishra, Balamurali Murugesan](https://openreview.net/forum?id=1WqLLYgBNt) _Ismail Ben Ayed, Marco Pedersoli, Jose Dolz_
+- [Do not trust what you trust: Miscalibration in Semisupervised Learning](https://openreview.net/forum?id=1WqLLYgBNt) _Shambhavi Mishra, Balamurali Murugesan, Ismail Ben Ayed, Marco Pedersoli, Jose Dolz_
 - [Multivariate Dense Retrieval: A Reproducibility Study under a Memory-limited Setup](https://openreview.net/forum?id=wF3ZtSlOcT) _Georgios Sidiropoulos, Samarth Bhargav, Panagiotis Eustratiadis, Evangelos Kanoulas_
 - [Improving Interpretation Faithfulness for Vision Transformers](https://openreview.net/forum?id=Z0DhgU8fBt) _Izabela Kurek, Wojciech Trejter, Stipe Frkovic, Andro Erdelez_
 - [Reassessing Fairness: A Reproducibility Study of NIFA’s Impact on GNN Models](https://openreview.net/forum?id=l5fXUKi8GO) _Ruben Figge, Sjoerd Gunneweg, Aaron Kuin, Mees Lindeman_
