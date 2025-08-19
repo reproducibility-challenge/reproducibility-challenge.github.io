@@ -57,8 +57,7 @@ The conference will be held at [Friend Center](https://classroominfo.princeton.e
 - 9:30am-9.45am - Opening remarks
 - 9.45am - 10:30am - Keynote talk by [Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/), Professor of Computer Science at Princeton University, Director of the Center for Information Technology Policy; _"The slowdown in scientific progress and the role of reproducibility"_
 - 10:30am-11:15am - Keynote talk by [Soumith Chintala](https://soumith.ch/), Pytorch @ Meta; _"Reproducibility Is a Heroic Act: Not Efficient, Not Legal, Not Credited"_
-- 11:15-11.30am - Coffee Break
-- 11:30am - 12:00pm - Lightning talks from Industry and Academia
+- 11:15-11.45am - Invited Talk by [Kelvin Niu](https://www.linkedin.com/in/kelvinniu/), Researcher @ Meta; _The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements_
 - Lunch Break : 12.00PM
 - 1:00pm-1:45pm - Keynote talk by [Stella Biderman](https://scholar.google.com/citations?user=bO7H0DAAAAAJ&hl=en), Executive Director, Eleuther AI; _"Lessons from the Trenches on Reproducible Evaluations of Language Models"_
 - 1:45pm- 2:30pm - Keynote talk by [Jonathan Frankle](http://www.jfrankle.com/), Chief AI Scientist, Databricks; _"The Humble Prompt Engineer: Looking to 1968 for the future of AI"_
@@ -129,7 +128,7 @@ We are now happy to announce the list of [accepted papers at MLRC 2025](/proceed
 
 #### Senior Program Chair
 
-- [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/), Mila - Quebec AI /
+- [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/), Cohere / Mila - Quebec AI /
   McGill University
 
 ## Event Sponsors
