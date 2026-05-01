@@ -7,7 +7,7 @@ draft: false
 hidden: true
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
 
 We are excited to announce the 8th iteration of the Machine Learning

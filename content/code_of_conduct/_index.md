@@ -11,8 +11,8 @@ date: "2024-12-12T00:00:00Z"
 type: book # Do not modify.
 ---
 
-_MLRC follows
-[Princeton Code of Conduct](https://rrr.princeton.edu/university-wide-regulations/12-university-wide-conduct-regulations)_
+_MLRC follows the
+[NeurIPS Code of Conduct](https://neurips.cc/public/CodeOfConduct)_
 
 <!-- ### Why --
 <!---->

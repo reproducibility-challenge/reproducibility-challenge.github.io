@@ -5,6 +5,7 @@ date: "2024-12-10T00:00:00Z"
 type: book # Do not modify.
 toc: true
 hidden: true
+url: /mlrc2023
 ---
 
 ## Final decisions for MLRC 2023

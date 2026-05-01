@@ -17,8 +17,7 @@ This page lists some useful resources which you can use for the challenge.
 
 Code submission are mandatory for all submitted papers. We recommend that you:
 
-- Publish your code in a repository (e.g. on GitHub, GitLab, BitBucket) and
-  anonymize it according to our double blind guidelines.
+- Archive your implementation using the [Software Heritage Archive](https://archive.softwareheritage.org/), which provides a permanent, citable identifier for source code. Include a link to the archived code in your paper.
 - Document your code appropriately
 - Have a README.md file which describes the exact steps to run your code. You
   can refer to the
@@ -27,13 +26,6 @@ Code submission are mandatory for all submitted papers. We recommend that you:
 - See this
   [blog post](https://www.cs.mcgill.ca/~ksinha4/practices_for_reproducibility/)
   on best practices for reproducibility.
-
-## Compute Resources
-
-- [Google Colaboratory](https://colab.research.google.com/) provides free GPU
-  backed Jupyter Notebooks
-- Instructors can apply for
-  [Google Cloud credits](https://cloud.google.com/edu/) for their students.
 
 ## Suggested Readings
 

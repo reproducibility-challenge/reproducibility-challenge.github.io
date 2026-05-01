@@ -13,8 +13,7 @@ type: book # Do not modify.
 
 ## Reproducible ML Advisory Board
 
-- [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/), _Meta (FAIR), McGill
-  University, Mila_
+- [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/), _McGill University, Mila, Cohere_
 - [Hugo Larochelle](https://mila.quebec/en/person/hugo-larochelle/), _Google
   Deepmind, Université de Montréal, Mila_
 - [Robert Stojnic](https://twitter.com/rbstojnic), _Meta_

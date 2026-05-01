@@ -12,15 +12,7 @@ type: book # Do not modify.
 toc: false
 ---
 
-This page consists of some frequently asked questions about the challenge.
-
-**Where is MLRC 2024?** As we described in our
-[announcement blog post](/blog/announcing_mlrc2025/), historically we have had
-one year backdated, as in MLRC 2023 actually happens in 2024, due to
-incorporating papers published in 2023. As we move on to be an in-person
-conference, to closer align with the format of ML conferences and also in favor
-of broadening our scope, we are therefore dropping the version 2024 and moving
-directly to MLRC 2025.
+This page consists of some frequently asked questions about MLRC 2026.
 
 **Is the submission double blind?** Yes, the paper should be double blind,
 according to
@@ -32,32 +24,26 @@ Supplementary Materials, or link to an
 **What is the format of the paper?** Please consult
 [TMLR's author guidelines](https://jmlr.org/tmlr/author-guide.html).
 
-**I need an extension to submit my paper.** Our deadline is a recommended date
-to submit to TMLR. You can still submit post this deadline. It is upto you to
-ensure we get your decisions in our system by the cutoff deadline of **June
-20th, 2025**.
+**I need an extension to submit my paper.** Our intent deadline is a soft date.
+You can still submit to TMLR after it. It is up to you to ensure we get your
+decisions in our system by the hard cutoff of **September 30, 2026**.
 
 **My paper hasn't received any reviews on TMLR for some time. What should I
-do?** It is up to you to followup with TMLR Action Editors if your paper hasn't
-recieved reviews in time. If your Action Editor is unresponsive, you should
+do?** It is up to you to follow up with TMLR Action Editors if your paper hasn't
+received reviews in time. If your Action Editor is unresponsive, you should
 reach out to the TMLR
-[Editors-In-Chiefs](https://jmlr.org/tmlr/editorial-board.html).
+[Editors-In-Chief](https://jmlr.org/tmlr/editorial-board.html).
 
-**My paper has recieved reviews, but it hasn't recieved any decisions at TMLR.**
-Again, it is your responsibility to follow up with TMLR Action Editor to get
+**My paper has received reviews, but it hasn't received any decisions at TMLR.**
+Again, it is your responsibility to follow up with your TMLR Action Editor to get
 your decisions by the cutoff date. If your Action Editor is unresponsive, you
 should reach out to the TMLR
-[Editors-In-Chiefs](https://jmlr.org/tmlr/editorial-board.html).
+[Editors-In-Chief](https://jmlr.org/tmlr/editorial-board.html).
 
-**Can I get invitation letter for US Visa?** Yes, please reach out to us at
-[mlrc-2025@googlegroups.com](mailto:mlrc-2025@googlegroups.com) with a proof of
-your registration and we will provide it to you.
-
-**This is super exciting, how can I help?** Thanks for your interest in our
-challenge! You can help out by spreading the news. We are looking for organizers
-and volunteers, if you would like to nominate someone you know or yourself,
+**This is super exciting, how can I help?** Thanks for your interest in MLRC!
+You can help out by spreading the news. We are looking for organizers and
+volunteers — if you would like to nominate someone you know or yourself,
 please contact us [through this form](https://forms.gle/w8MtswWEbBWQVZbEA).
 
-**I am from industry, can I participate?** Yes you are more than welcome to!
-Please consider sharing the word about the challenge to your peers in your
-company too!
+**I am from industry, can I participate?** Yes, you are more than welcome to!
+Please consider sharing the word about MLRC with your peers too.
