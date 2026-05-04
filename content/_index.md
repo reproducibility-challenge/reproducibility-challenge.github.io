@@ -32,7 +32,7 @@ results.
 
 {{% callout note %}}
 
-- :bell: MLRC 2026 will be an official track at [NeurIPS 2026](https://neurips.cc/Conferences/2026)! Check out our [Call for Papers](/call_for_papers) for more details.
+- :bell: MLRC 2026 will be an official track at [NeurIPS 2026](https://neurips.cc/Conferences/2026/CallForReproducibility)! Check out our [Call for Papers](/call_for_papers) for more details.
 
 {{% /callout %}}
 
