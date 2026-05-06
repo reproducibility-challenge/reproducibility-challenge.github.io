@@ -20,7 +20,7 @@ Submissions must be first accepted at [TMLR](https://jmlr.org/tmlr/) to be consi
 [submission guidelines](https://jmlr.org/tmlr/editorial-policies.html) from TMLR
 to understand the submission format and reviewing process.
 Existing papers related to the scope (with reproducibility certification)
-already published at TMLR are also welcome for consideration by the committee. Note that papers in this track will still be TMLR proceedings, similar to the [Journal to Conference](https://neurips.cc/public/JournalToConference) track.
+already published at TMLR are also welcome for consideration by the committee. Note that papers in this track are not part of NeurIPS proceedings — they are TMLR proceedings, and will be presented at NeurIPS similar to the [Journal to Conference](https://neurips.cc/public/JournalToConference) track.
 <img src="/uploads/mlrc2026_submission_flow.drawio.svg" class="mlrc_dark" style="width:100%;" />
 <img src="/uploads/mlrc2026_submission_flow.light.drawio.svg" class="mlrc_light" style="width:100%;" />
 
