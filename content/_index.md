@@ -32,6 +32,7 @@ results.
 
 {{% callout note %}}
 
+- :bell: The soft deadline (June 4, 2026) has passed, but submissions are still open! You can still self-nominate your accepted TMLR paper until the hard deadline of **September 30, 2026** — [submit here](https://forms.gle/bvYxagcRjKSmYhUM7).
 - :bell: MLRC 2026 will be an official track at [NeurIPS 2026](https://neurips.cc/Conferences/2026/CallForReproducibility)! Check out our [Call for Papers](/call_for_papers) for more details.
 
 {{% /callout %}}
