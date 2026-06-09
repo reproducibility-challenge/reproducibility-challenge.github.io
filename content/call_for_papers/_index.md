@@ -101,6 +101,10 @@ Sharing the code used to produce your results is **strongly recommended**. Autho
 
 [MLRC 2026](https://reproml.org/) papers are reviewed through [TMLR](https://jmlr.org/tmlr/). Once a paper is accepted at TMLR with a reproducibility certification, it undergoes a light compatibility review by the MLRC committee to verify suitability for the track and to determine eligibility for oral and poster presentation at [NeurIPS 2026](https://neurips.cc/Conferences/2026). This review is primarily to check the alignment of the paper with the scope of the program, and the MLRC organizers will take a final decision on the inclusion of this paper to the track.
 
+{{% callout note %}}
+The soft deadline (June 4, 2026) has passed, but submissions are still open! You can still self-nominate your accepted TMLR paper until the hard deadline of **September 30, 2026** — [submit here](https://forms.gle/bvYxagcRjKSmYhUM7).
+{{% /callout %}}
+
 ## Important Dates
 
 - Earliest date of the acceptance of your TMLR reproducibility paper for consideration to this year's MLRC: **June 20, 2025** 23:59 AOE
