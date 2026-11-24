@@ -125,7 +125,7 @@ The TMLR session will take place on **Thursday, December 10, 2026, in Room C3.2*
 <td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">9:00-9:10 AM</td>
 <td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Opening Remarks</td>
 </tr>
-<tr style="background:#f8f9fa;">
+<tr style="background:#f8f9fa;color:#212529;">
 <td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">9:10-9:45 AM</td>
 <td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Invited Talk (remote, Tentative): Charlotte Deane (University of Oxford) — title to be announced (30 min talk + 5 min Q&A)</td>
 </tr>
@@ -133,7 +133,7 @@ The TMLR session will take place on **Thursday, December 10, 2026, in Room C3.2*
 <td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">9:45-10:05 AM</td>
 <td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Spotlight 1 (15 min talk + 5 min Q&A): <em>"Evaluating the evidence trace of NeurIPS 2025 contributions with agentic code auditing"</em> — Pascal Iversen, Ferdous Nasri, Bernhard Y. Renard, Katharina Baum (Best Paper Award)</td>
 </tr>
-<tr style="background:#f8f9fa;">
+<tr style="background:#f8f9fa;color:#212529;">
 <td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">10:05-10:40 AM</td>
 <td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Lightning Talks Block A (7 talks x 5 min)</td>
 </tr>
@@ -141,7 +141,7 @@ The TMLR session will take place on **Thursday, December 10, 2026, in Room C3.2*
 <td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">10:40-11:10 AM</td>
 <td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Coffee Break</td>
 </tr>
-<tr style="background:#f8f9fa;">
+<tr style="background:#f8f9fa;color:#212529;">
 <td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">11:10-11:30 AM</td>
 <td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Spotlight 2 (15 min talk + 5 min Q&A): <em>"Min-p, Max Exaggeration: A Critical Analysis of Min-p Sampling in Language Models"</em> — Rylan Schaeffer, Joshua Kazdan, Yegor Denisov-Blanch (Outstanding Paper Award)</td>
 </tr>
@@ -149,7 +149,7 @@ The TMLR session will take place on **Thursday, December 10, 2026, in Room C3.2*
 <td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">11:30 AM-12:00 PM</td>
 <td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Lightning Talks Block B (6 talks x 5 min)</td>
 </tr>
-<tr style="background:#f8f9fa;">
+<tr style="background:#f8f9fa;color:#212529;">
 <td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">12:00-1:30 PM</td>
 <td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Lunch</td>
 </tr>
@@ -157,7 +157,7 @@ The TMLR session will take place on **Thursday, December 10, 2026, in Room C3.2*
 <td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">1:30-2:05 PM</td>
 <td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Invited Talk 1: Bin Yu (UC Berkeley) — <em>"Reproducible AI Workflows with Veridical Data Science"</em> (30 min talk + 5 min Q&A)</td>
 </tr>
-<tr style="background:#f8f9fa;">
+<tr style="background:#f8f9fa;color:#212529;">
 <td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">2:05-2:25 PM</td>
 <td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Spotlight 3 (15 min talk + 5 min Q&A): <em>"A Reproduction Study of Weight-Based Mechanistic Interpretability in Bilinear MLPs"</em> — Itay Erlich, May Ben Zion, Jacob Shashoua (Outstanding Paper Award)</td>
 </tr>
@@ -165,7 +165,7 @@ The TMLR session will take place on **Thursday, December 10, 2026, in Room C3.2*
 <td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">2:25-2:45 PM</td>
 <td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Guest Talk (20 min): <a href="https://www.linkedin.com/in/dewei-feng/">Dewei Feng</a> (Meta) — <em>"Who Grades the Reproducers? Teaching Agents to Write Rubrics for ML Paper Reproduction"</em></td>
 </tr>
-<tr style="background:#f8f9fa;">
+<tr style="background:#f8f9fa;color:#212529;">
 <td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">2:45-3:05 PM</td>
 <td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Coffee Break</td>
 </tr>
@@ -173,7 +173,7 @@ The TMLR session will take place on **Thursday, December 10, 2026, in Room C3.2*
 <td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">3:05-3:40 PM</td>
 <td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Invited Talk 2: Pin-Yu Chen (IBM Research) — <em>"vLLM Hook: Towards Runtime Monitoring and Control on AI Inference Engines"</em> (30 min talk + 5 min Q&A)</td>
 </tr>
-<tr style="background:#f8f9fa;">
+<tr style="background:#f8f9fa;color:#212529;">
 <td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">3:40-4:15 PM</td>
 <td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Invited Talk 3: Liming Zhu (CSIRO Data61 and UNSW) — <em>"Reproducibility in AI Research: When AI Is Also the Researcher"</em> (30 min talk + 5 min Q&A)</td>
 </tr>
@@ -181,7 +181,7 @@ The TMLR session will take place on **Thursday, December 10, 2026, in Room C3.2*
 <td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">4:15-4:55 PM</td>
 <td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Panel Discussion: <em>"Subject, Tool, or Both? Frontier Models and Reproducible Science"</em> — moderated by Koustuv Sinha</td>
 </tr>
-<tr style="background:#f8f9fa;">
+<tr style="background:#f8f9fa;color:#212529;">
 <td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">4:55-5:00 PM</td>
 <td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Closing Remarks</td>
 </tr>
