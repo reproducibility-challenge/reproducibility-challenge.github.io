@@ -82,7 +82,7 @@ The MLRC poster session will be held on **Thursday, December 10, 2026, at 5:00-8
 
 ## Agenda
 
-The TMLR session will take place on **Thursday, December 10, 2026, in Room C3.2**, starting at 9:00 AM, followed by the poster session in the evening.
+The NeurIPS Reproducibility Track will take place on **Thursday, December 10, 2026, in Room C3.2**, starting at 9:00 AM, followed by the poster session in the evening.
 
 ### Invited Speakers
 
