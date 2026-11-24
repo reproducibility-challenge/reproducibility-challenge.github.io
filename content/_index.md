@@ -8,7 +8,7 @@ headless: true
   <div class="row">
     <div class="col-md-12 text-center">
       <h2 class="text-white">Machine Learning Reproducibility Challenge</h2>
-      <h3 class="text-white">A NeurIPS 2026 Track</h3>
+      <h3 class="text-white">NeurIPS 2026 Reproducibility Track</h3>
       <h4 class="text-white">Dec 2026, Sydney, Australia</h4>
     </div>
   </div>
@@ -33,6 +33,7 @@ results.
 {{% callout note %}}
 
 - :bell: The 16 accepted papers for MLRC 2026 are announced! See the [Accepted Papers](#accepted-papers) below, and join us at the poster session on **Thursday, December 10, 2026, at 5:00-8:00 PM** Sydney time.
+- :bell: [December 10th NeurIPS Reproducibility Track](#agenda) is now live, with invited talks by Bin Yu, Liming Zhu, Pin-Yu Chen, and Charlotte Deane (remote, tentative).
 - :bell: Submissions for MLRC 2026 are now closed (the hard deadline was September 30, 2026). Thank you to everyone who submitted!
 - :bell: MLRC 2026 will be an official track at [NeurIPS 2026](https://neurips.cc/Conferences/2026/CallForReproducibility)! Check out our [Call for Papers](/call_for_papers) for more details.
 
@@ -40,13 +41,9 @@ results.
 
 ## Accepted Papers
 
-We are delighted to announce the 16 papers accepted to the Machine Learning Reproducibility Challenge (MLRC) 2026, an official track of NeurIPS 2026. The papers will be presented in person at NeurIPS 2026 in Sydney, Australia (December 6–13, 2026), alongside papers from the Main Track and the Evaluations & Datasets Track. Each paper was first accepted at the Transactions on Machine Learning Research (TMLR), and subsequently underwent a light compatibility review by the MLRC committee to confirm its suitability for the track.
-
-This announcement was also published on the [NeurIPS blog](https://blog.neurips.cc/2026/11/04/mlrc-2026-announcing-the-accepted-papers/).
+We are delighted to announce the 16 papers accepted to the Machine Learning Reproducibility Challenge (MLRC) 2026, an official track of NeurIPS 2026. The papers will be presented in person at NeurIPS 2026 in Sydney, Australia (December 6–13, 2026), alongside papers from the Main Track and the Evaluations & Datasets Track. Each paper was first accepted at the Transactions on Machine Learning Research (TMLR), and subsequently underwent a light compatibility review by the MLRC committee to confirm its suitability for the track ([NeurIPS Blog](https://blog.neurips.cc/2026/11/04/mlrc-2026-announcing-the-accepted-papers/)).
 
 The MLRC poster session will be held on **Thursday, December 10, 2026, at 5:00-8:00 PM** Sydney time. We invite all attendees to visit the poster presentations, meet the authors, and engage in discussion with them.
-
-The Best Paper Award goes to "Evaluating the evidence trace of NeurIPS 2025 contributions with agentic code auditing". Outstanding Paper Awards go to "Min-p, Max Exaggeration: A Critical Analysis of Min-p Sampling in Language Models" and "A Reproduction Study of Weight-Based Mechanistic Interpretability in Bilinear MLPs". The award winners are also marked in the list below.
 
 ### Accepted Papers from the Transactions on Machine Learning Research (TMLR)
 
@@ -82,6 +79,118 @@ The Best Paper Award goes to "Evaluating the evidence trace of NeurIPS 2025 cont
    Su Kara, Fazle Faisal, Suman Nath
 16. [XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher](https://openreview.net/forum?id=2WI889Ulin)
    Lazar Đoković, Aimee Lin
+
+## Agenda
+
+The TMLR session will take place on **Thursday, December 10, 2026, in Room C3.2**, starting at 9:00 AM, followed by the poster session in the evening.
+
+### Invited Speakers
+
+<div style="display:flex;flex-wrap:wrap;gap:24px;justify-content:center;margin:24px 0;">
+<div style="flex:1 1 150px;max-width:190px;text-align:center;">
+<a href="https://binyu.stat.berkeley.edu"><img src="/uploads/speaker-bin-yu.jpg" alt="Bin Yu" style="width:150px;height:150px;object-fit:cover;border-radius:50%;border:3px solid #e9ecef;"></a>
+<div style="font-weight:700;margin-top:12px;"><a href="https://binyu.stat.berkeley.edu">Bin Yu</a></div>
+<div style="color:#6c757d;">UC Berkeley</div>
+<div style="font-style:italic;font-size:0.9rem;margin-top:4px;">Reproducible AI Workflows with Veridical Data Science</div>
+</div>
+<div style="flex:1 1 150px;max-width:190px;text-align:center;">
+<a href="https://www.pinyuchen.com"><img src="/uploads/speaker-pin-yu-chen.jpg" alt="Pin-Yu Chen" style="width:150px;height:150px;object-fit:cover;border-radius:50%;border:3px solid #e9ecef;"></a>
+<div style="font-weight:700;margin-top:12px;"><a href="https://www.pinyuchen.com">Pin-Yu Chen</a></div>
+<div style="color:#6c757d;">IBM Research</div>
+<div style="font-style:italic;font-size:0.9rem;margin-top:4px;">vLLM Hook: Towards Runtime Monitoring and Control on AI Inference Engines</div>
+</div>
+<div style="flex:1 1 150px;max-width:190px;text-align:center;">
+<a href="https://www.unsw.edu.au/staff/liming-zhu"><img src="/uploads/speaker-liming-zhu.png" alt="Liming Zhu" style="width:150px;height:150px;object-fit:cover;border-radius:50%;border:3px solid #e9ecef;"></a>
+<div style="font-weight:700;margin-top:12px;"><a href="https://www.unsw.edu.au/staff/liming-zhu">Liming Zhu</a></div>
+<div style="color:#6c757d;">CSIRO Data61 and UNSW</div>
+<div style="font-style:italic;font-size:0.9rem;margin-top:4px;">Reproducibility in AI Research: When AI Is Also the Researcher</div>
+</div>
+<div style="flex:1 1 150px;max-width:190px;text-align:center;">
+<a href="https://www.stats.ox.ac.uk/people/charlotte-deane"><img src="/uploads/speaker-charlotte-deane.jpg" alt="Charlotte Deane" style="width:150px;height:150px;border-radius:50%;object-fit:cover;border:3px solid #e9ecef;"></a>
+<div style="font-weight:700;margin-top:12px;"><a href="https://www.stats.ox.ac.uk/people/charlotte-deane">Charlotte Deane</a></div>
+<div style="color:#6c757d;">University of Oxford</div>
+<div style="font-style:italic;font-size:0.9rem;margin-top:4px;">Tentative remote talk, title to be announced</div>
+</div>
+</div>
+
+<table style="width:100%;border-collapse:collapse;font-size:0.95rem;margin:8px 0 24px 0;">
+<thead>
+<tr>
+<th style="background:#1565c0;color:#fff;text-align:left;padding:10px 12px;border:1px solid #dee2e6;">Time</th>
+<th style="background:#1565c0;color:#fff;text-align:left;padding:10px 12px;border:1px solid #dee2e6;">Session</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">9:00-9:10 AM</td>
+<td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Opening Remarks</td>
+</tr>
+<tr style="background:#f8f9fa;">
+<td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">9:10-9:45 AM</td>
+<td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Invited Talk (remote, Tentative): Charlotte Deane (University of Oxford) — title to be announced (30 min talk + 5 min Q&A)</td>
+</tr>
+<tr>
+<td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">9:45-10:05 AM</td>
+<td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Spotlight 1 (15 min talk + 5 min Q&A): <em>"Evaluating the evidence trace of NeurIPS 2025 contributions with agentic code auditing"</em> — Pascal Iversen, Ferdous Nasri, Bernhard Y. Renard, Katharina Baum (Best Paper Award)</td>
+</tr>
+<tr style="background:#f8f9fa;">
+<td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">10:05-10:40 AM</td>
+<td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Lightning Talks Block A (7 talks x 5 min)</td>
+</tr>
+<tr>
+<td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">10:40-11:10 AM</td>
+<td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Coffee Break</td>
+</tr>
+<tr style="background:#f8f9fa;">
+<td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">11:10-11:30 AM</td>
+<td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Spotlight 2 (15 min talk + 5 min Q&A): <em>"Min-p, Max Exaggeration: A Critical Analysis of Min-p Sampling in Language Models"</em> — Rylan Schaeffer, Joshua Kazdan, Yegor Denisov-Blanch (Outstanding Paper Award)</td>
+</tr>
+<tr>
+<td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">11:30 AM-12:00 PM</td>
+<td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Lightning Talks Block B (6 talks x 5 min)</td>
+</tr>
+<tr style="background:#f8f9fa;">
+<td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">12:00-1:30 PM</td>
+<td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Lunch</td>
+</tr>
+<tr>
+<td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">1:30-2:05 PM</td>
+<td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Invited Talk 1: Bin Yu (UC Berkeley) — <em>"Reproducible AI Workflows with Veridical Data Science"</em> (30 min talk + 5 min Q&A)</td>
+</tr>
+<tr style="background:#f8f9fa;">
+<td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">2:05-2:25 PM</td>
+<td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Spotlight 3 (15 min talk + 5 min Q&A): <em>"A Reproduction Study of Weight-Based Mechanistic Interpretability in Bilinear MLPs"</em> — Itay Erlich, May Ben Zion, Jacob Shashoua (Outstanding Paper Award)</td>
+</tr>
+<tr>
+<td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">2:25-2:45 PM</td>
+<td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Guest Talk (20 min): <a href="https://www.linkedin.com/in/dewei-feng/">Dewei Feng</a> (Meta) — <em>"Who Grades the Reproducers? Teaching Agents to Write Rubrics for ML Paper Reproduction"</em></td>
+</tr>
+<tr style="background:#f8f9fa;">
+<td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">2:45-3:05 PM</td>
+<td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Coffee Break</td>
+</tr>
+<tr>
+<td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">3:05-3:40 PM</td>
+<td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Invited Talk 2: Pin-Yu Chen (IBM Research) — <em>"vLLM Hook: Towards Runtime Monitoring and Control on AI Inference Engines"</em> (30 min talk + 5 min Q&A)</td>
+</tr>
+<tr style="background:#f8f9fa;">
+<td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">3:40-4:15 PM</td>
+<td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Invited Talk 3: Liming Zhu (CSIRO Data61 and UNSW) — <em>"Reproducibility in AI Research: When AI Is Also the Researcher"</em> (30 min talk + 5 min Q&A)</td>
+</tr>
+<tr>
+<td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">4:15-4:55 PM</td>
+<td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Panel Discussion: <em>"Subject, Tool, or Both? Frontier Models and Reproducible Science"</em> — moderated by Koustuv Sinha</td>
+</tr>
+<tr style="background:#f8f9fa;">
+<td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">4:55-5:00 PM</td>
+<td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Closing Remarks</td>
+</tr>
+<tr>
+<td style="white-space:nowrap;font-weight:600;padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">5:00-8:00 PM</td>
+<td style="padding:10px 12px;border:1px solid #dee2e6;vertical-align:top;">Poster Session — Hall 1-4</td>
+</tr>
+</tbody>
+</table>
 
 
 ## Venue
